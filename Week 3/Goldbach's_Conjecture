@@ -1,0 +1,51 @@
+#Name: Brendan Gee
+#Date: 4/19/21
+#Video Link: https://youtu.be/RDKCh-UW6pc
+#Honor Statement: I have not given or received any unauthorized assistance on this assignment
+
+def Goldbach_Conjecture(num):
+    '''Takes in a number and prints out each even number
+    below that number as a sum of two primes'''
+    
+    res = []
+    
+    #store all primes in a list below and including specfied num
+    primeNums = getPrimes(num)
+
+    for even in range(4,num+1,2): #all nums >2 & <= num + 1
+        #find two primes that add to the even number
+        res.append(findPrimes(even,primeNums))
+
+    #print in desired format
+    printSummary(res)
+
+def getPrimes(num):
+    '''Input a number and returns a list of primes
+    up to that number'''
+
+    primeList = [2] #initialize 2 as a prime
+
+    for i in range(3,num+1): #start at 3 to num for checking prime
+        for j in range(2,i): #checks if a number less than i (j) divides i
+            if i % j == 0: #if j divides i, break/don't store as prime
+                break
+            elif i - 1 == j: #if we reach i-1 == j, we know i is prime since we didn't break j for loop
+                primeList.append(i)
+    return primeList
+
+def findPrimes(even,primeList):
+    '''Finds two primes in the prime list that add up to
+    the given even number'''
+    
+    for i in range(len(primeList)): #iterate through index of primeList
+        for j in range(len(primeList)):
+            if primeList[i] + primeList[j] == even:
+                #return first instance where two primes equal the even number
+                return f'{even} = {primeList[i]} + {primeList[j]}'
+
+def printSummary(resList):
+    '''prints out a solution to Goldbach's Conjecture
+    for a specific # of entries'''
+
+    for i in resList:
+        print(i,end = '\n') #for each item, print followed by a new line
