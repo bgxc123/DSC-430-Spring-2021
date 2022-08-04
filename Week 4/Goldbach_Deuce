@@ -1,0 +1,103 @@
+#Name: Brendan Gee
+#Date: 4/26/21
+#Video Link: https://youtu.be/dilvxyX_XIo
+#Honor Statement: I have not given or received any unauthorized assistance on this assignment.
+
+def Goldbach_Deuce():
+    '''Asks user for length/sum, then finds if two of
+    the numbers in the list add to the sum'''
+
+    #ask user for length of the list/create randomly generated list
+    l = getLength()
+
+    #ask user for sum the want to get to
+    s = getSum()
+
+    #first for loop O(n)
+    for num in l:
+
+        #binary search
+        res = binarySearch(s,num,l) #O(log(n))
+
+        if res == -1:
+            continue
+        else:
+            break
+        
+    #print summary based on results
+    printSummary(res,num,s)
+
+
+def getLength():
+    '''Asks user for the length of the list they want to use
+    and returns a randomly generated list of that length,
+    while checking for errors.'''
+    
+    while True:
+        try:
+            length = int(input('Please enter the length of the list: '))
+
+        except ValueError: #check for user inputting string
+            print('Make sure you input an integer.')
+            continue
+        #if user error conditions met, break out of loop
+        break
+    
+    #return a list of random ints between 0 and 100 of size length
+    import random
+    randLst = []
+    for i in range(length):
+        randLst.append(random.randint(1,100))
+        
+    return sorted(randLst) #need sorted list for binary search later
+
+def getSum():
+    '''Asks user for sum. Used to determine if any two integers in
+    the list they created add to the sum'''
+
+    while True:
+        try:
+            s = int(input('Please enter the sum you would like to check for: '))
+        except ValueError: #check for user inputting string
+            print('Make sure you input an integer.')
+            continue
+        return s #returns sum once errors have been checked for
+
+def binarySearch(n,num,numlst):
+    '''looks for a number in numlst that adds
+    up to n with num'''
+
+    #initialize mid
+    mid = len(numlst) // 2
+
+    #binary serach using mid index
+    while len(numlst) > 0 and num + numlst[mid] != n:
+        
+        #if n is greater than sum of two nums..
+        if num + numlst[mid] < n:
+            numlst = numlst[mid+1:] #cut list to upper half
+            mid = len(numlst) // 2 #set mid to middle index
+
+        #if n is less than sum of two nums..
+        else:
+            numlst = numlst[:mid] #cut list to lower half
+            mid = len(numlst) // 2 #set mid to middle index
+            
+    if len(numlst) == 0: #if lst is empty, nothing summed => return -1
+        return -1
+    else:    
+        return numlst[mid]
+
+def printSummary(res,num,s):
+    '''Prints out summary for user based on
+    the results from the for loop'''
+    
+    #when no two numbers are found, return -1,-1
+    if res == -1:
+        print('No numbers in your list add up to {s}')
+        return -1,-1
+
+    #otherwise, print out both numbers that sum to the desired number
+    else:
+        print(f'The numbers {num} and {res} in your list add up to {s}')
+        return res,num
