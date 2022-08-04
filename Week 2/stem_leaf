@@ -1,0 +1,144 @@
+#Name: Brendan Gee
+#Date: 4/12/2021
+#Video Link: https://youtu.be/7cmSC2YBPi0
+#Honor Statement: I have not given or received any unauthorized assistance on this assignment
+
+def greetUser():
+    '''function that greets the user before asking which plot they want
+    to see'''
+
+    print('Welcome!')
+    print('In this game, you will be choosing a number, which will generate a stem and leaf plot.')
+    print('To exit, type "N" once prompted, otherwise type "Y" to try again.')
+
+def userInput():
+    '''Asks user for an input of 1, 2, or 3. If user inputs incorrect
+    value, will ask the question again.'''
+    
+    while True: #keep in loop until user gives a correct input
+        
+        try: #prevent function from crashing
+            num = int(input('Choose the stem and leaf plot you wish to graph:(1/2/3) '))
+        except ValueError: #avoid user inputting strings         
+            print('Please pick "1", "2", or "3"')
+            continue
+
+        if num in [1,2,3]:
+            break #when input is correct, breaks out of while loop
+        else: #if user picks number outside of range, repeat question
+            print('Please pick "1", "2", or "3"')
+            
+    return num #returns value only when while loop conditions are satisfied
+
+def stemLeaf(num):
+    '''takes the number given from user and returns the stems
+    and leaves of the txt file'''
+
+    #intializing stems/leaves
+    stemLeafDict = {}
+
+    #open/close file, splitlines
+    infile = open(f'StemAndLeaf{num}.txt')
+    content = infile.read().splitlines() #creates list without \n
+    infile.close()
+
+    #converting list to keys/values (stems/leaves)
+    return getDict(content)
+
+def getDict(content):
+    '''Used for converting list into stem/leaf
+    key value pairs'''
+
+    #initalizing dictionary
+    stemLeafDict = {}
+    for i in content:
+        #if stem in dict, append leaf
+        if int(i[:-1]) in stemLeafDict:
+            stemLeafDict[int(i[:-1])].append(int(i[-1]))
+        #if stem not in dict, creat new stem/leaf pair
+        else:
+            stemLeafDict[int(i[:-1])] = [int(i[-1])]
+    return stemLeafDict
+        
+
+def plot(d):
+    '''Plots the given dictionary as a stem leaf plot
+    after checking for errors/spacing'''
+
+    #prevent plot from breaking
+    errorCheck(d)
+
+    #plot
+    for i in range(min(d),max(d)+1): #sorts stems, goes through each stem w/range
+        
+        #use correctSpace function to make sure plot is shown properly
+        print(f'{i}{" " * correctSpace(d,i)}| ', end ='')
+        
+        #innermost for loop to iterate through each leaf
+        for j in sorted(d[i]): #show leaves in ascending order
+            print(j,end = ' ')
+        print() #goes to next line before outermost for loop (stem) restarts
+
+def errorCheck(d):
+    '''Makes sure the graph has no missing stems
+    that will prvent errors from occurring'''
+
+    #if a stem isn't in the range of d, add it with a null value
+    ##this prevents an error from occuring
+    for i in range(min(d),max(d)+1):
+        if i not in d:
+            d[i] = ['']
+
+def correctSpace(d,num):
+    '''finds the correct spacing for the given stems
+    to ensure the plot is shown properly'''
+
+    #calculate length of highest int
+    length = len(str(max(d)))
+    #calculate difference between current num in loop and highest int
+    diff = length - len(str(num))
+
+    #add an incremental space depending on diff in lengths
+    return 1 + diff
+
+def goAgain():
+    '''asks users if they want to try another stem leaf
+    plot graph'''
+
+    while True: #makes sure user inputs valid response
+        res = input('Do you want to make another stem & leaf plot? (Y/N): ')
+        if res == 'Y':
+            res = True
+            break
+        elif res == 'N':
+            res = False
+            break
+        else:
+            print('Please enter "Y" or "N"')
+    return res
+
+    
+
+def stemLeafPlot():
+    '''Asks user for a number, plots the given stem and leaf plot
+    asks user to quit or plot a different stem and leaf plot'''
+    
+    #introduce user to the function
+    greetUser()
+
+    response = True
+
+    while response:
+
+        #record users response (1,2,3)
+        num = userInput()
+
+        #store stems/leaves as keys/values in a dictionary
+        stemLeafDict = stemLeaf(num)
+
+        #plot a stem leaf plot given the dictionary
+        plot(stemLeafDict)
+
+        #Ask user if they want to go again
+        response = goAgain()
+    
