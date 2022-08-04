@@ -1,0 +1,1107 @@
+<html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="Keywords" content=""><meta name="Description" content="Located in the heart of Chicago, DePaul University College of Law is commitment to supporting and nurturing students to succeed as world-class problem solvers."><meta http-equiv="X-UA-Compatible" content="IE=9"><meta name="GENERATOR" content="Microsoft SharePoint"><meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="monitor" content="nagios"><meta http-equiv="X-UA-Compatible" content="IE=10"><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="linkedin-autogen" type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5BRT4J"></script><script type="text/javascript">var _browserisFlight = true;</script><meta http-equiv="Expires" content="0"><meta name="msapplication-TileImage" content="/_layouts/15/images/SharePointMetroAppTile.png"><meta name="msapplication-TileColor" content="#0072C6"><title>
+	College of Law | DePaul University, Chicago
+</title>
+<!-- Begin Open Graph -->
+<!-- End Open Graph -->
+
+<!-- Begin Site Meta -->
+<link rel="canonical" href="https://law.depaul.edu/Pages/default.aspx">
+<!-- End Site Meta -->
+
+    <script type="text/javascript">
+        if (window.dpu == undefined) { dpu = { __namespace: true }; }
+        function deferjquery(method) {
+            if (window.jQuery) { method(); } else { setTimeout(function() { deferjquery(method) }, 50); }
+        }        
+    </script>    
+	<script type="text/javascript" src="/_layouts/15/1033/initstrings.js?rev=2WxjgxyM2qXGgY9r2nHW8A%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=mJIaXP%2BM6YCnwksHj4Tdcw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1033/strings.js?rev=k%2FSaOdWtcHDDvsb%2FUFykOA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/ie55up.js?rev=4XpEuG6U%2B1R3tng0rpiZ5w%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/du.spopengraph/opengraph.js"></script>
+<script type="text/javascript" src="/_layouts/15/du.spopengraph/pagemeta.js"></script>
+<script type="text/javascript" src="/_layouts/15/du.spresponsiveimagebutton/resimage.js"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=IqTzZk9QeXees9OLRNQFExeRMqPabw4a93C_t4bpDiVOGZPeI_cuVop_GVbPuOf8_16wkEZB4hoCnxlIErt1i9vK-pvVSA6G1TMSuZeDnUQrHmpJCUKIVf761_EzQihxK-jEVQYMBgM4J9hs77XJ34KK8plTnqKOZM2mI0e57nwBXjgjov54smTXRr4j464Z0&amp;t=2fe674eb"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=j8B2JDHHSucDcweHtwlb5w%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=UANpMvLRUh5AEXHmZo7LnC71WcorGjFFWXjIN-wIBfwVp2XAf82O-koXnVe1ao4puCU780IBzifeNXE9apr7gdEO2NMYXTziFnRlqhjRumHfqxiEQfw_UZQcwdLNxjA4zYDyiBXfoaX9MePamBtfkwW7YH7rjbo4iFpnvrYAHx8xwL2PSqMenE7BLo-cCoSO0&amp;t=2fe674eb"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=4UhLIF\u00252FezOvmGnh\u00252Fs0LLpA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002f15\u002f1033\u002fsp.res.js?rev=UifXKbOSv0mTAqiBg\u00252B9gXQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.runtime.js", "\u002f_layouts\u002f15\u002fsp.runtime.js?rev=ZpIfzRVPOfnTX9BtM\u00252B1fKw\u00253D\u00253DTAG0");RegisterSodDep("sp.runtime.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.js", "\u002f_layouts\u002f15\u002fsp.js?rev=Ws8zCDacByVW830V1S1Jrw\u00253D\u00253DTAG0");RegisterSodDep("sp.js", "sp.runtime.js");RegisterSodDep("sp.js", "sp.ui.dialog.js");RegisterSodDep("sp.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("sp.init.js", "\u002f_layouts\u002f15\u002fsp.init.js?rev=sSaCBeanR\u00252BmeYr\u00252FS28tXBQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002f15\u002fsp.ui.dialog.js?rev=4CvvV1xagxd5rpSsb\u00252BaGVA\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.dialog.js", "sp.init.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f15\u002fcore.js?rev=Zq\u00252FMfbnmjbbiqyBYDL3VmQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("menu.js", "\u002f_layouts\u002f15\u002fmenu.js?rev=oK2yHtttBZo8upiVr4uUXA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=gflWbKYXPS7eNkD4ctUWcw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("callout.js", "\u002f_layouts\u002f15\u002fcallout.js?rev=ZP1OUHvpf6PqigpaHIrptA\u00253D\u00253DTAG0");RegisterSodDep("callout.js", "mQuery.js");RegisterSodDep("callout.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002f15\u002fsp.core.js?rev=wauuPXDIYOX0dhdEg3lksw\u00253D\u00253DTAG0");RegisterSodDep("sp.core.js", "sp.init.js");RegisterSodDep("sp.core.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.strings.js", "\u002f_layouts\u002f15\u002f1033\u002fsharedhovercard.strings.js?rev=sLsS\u00252FNPqFzOSO42e3s6lgw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharedhovercard.js", "\u002f_layouts\u002f15\u002fsharedhovercard.js?rev=uB89up9szoXj8bAMKPkPSg\u00253D\u00253DTAG0");RegisterSodDep("sharedhovercard.js", "sharedhovercard.strings.js");</script>
+<script type="text/javascript">RegisterSod("clienttemplates.js", "\u002f_layouts\u002f15\u002fclienttemplates.js?rev=3yC6L529OYiGzpYf\u00252Fn\u00252BIQA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=s8SlBsRPSWF55FYSf4yE8A\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "mQuery.js");RegisterSodDep("sharing.js", "clienttemplates.js");RegisterSodDep("sharing.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("suitelinks.js", "\u002f_layouts\u002f15\u002fsuitelinks.js?rev=Sjjx8Kj\u00252BmFEwCB7EHQSsRw\u00253D\u00253DTAG0");RegisterSodDep("suitelinks.js", "core.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=cx6U8sP\u00252ByP0OFLjk6ekyIg\u00253D\u00253DTAG0");RegisterSodDep("userprofile", "sp.runtime.js");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=eBeRI4rR1huQl5NFFTL6yw\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "sp.js");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "core.js");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1033\u002fprofilebrowserscriptres.js?rev=qwf69WaVc1mYlJLXqmZmVA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=lm\u00252B1gjE\u00252B14XkW\u00252FkL7HKPEg\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "sp.init.js");RegisterSodDep("sp.ui.mysitecommon.js", "sp.runtime.js");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002f15\u002finplview.js?rev=t4KDlJfDkAWttConMTEARA\u00253D\u00253DTAG0");RegisterSodDep("inplview", "core.js");RegisterSodDep("inplview", "clienttemplates.js");RegisterSodDep("inplview", "sp.js");</script>
+<link rel="preload" as="script" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/jquery.min.js"><link rel="preload" as="script" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/bootstrap.min.js"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/robotoslab/robotoslab.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/fonts.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/fontawesome/fontawesome-all.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/sourcesanspro/sourcesanspro.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/accessibleMegaMenu/megamenu.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/bootstrap.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/dpu.min.css"><link rel="preload" as="style" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/sweetalert2/sweetalert2.min.css"><link rel="preload" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/webfonts/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2" as="font" type="font/woff2" crossorigin="anonymous"><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/jquery.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-standard-lib.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/jquery-accessibleMegaMenu/jquery-accessibleMegaMenu.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/embedly/jquery.embedly.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-responsive.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/dpu-colleges.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-smartforms-customise.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-demographics.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/popper.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/cm-editor.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/bootstrap.min.js"></script><script type="text/javascript" defer="" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/sweetalert2/sweetalert2.all.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/typeahead/jquery.typeahead.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/handlebars/handlebars-v4.0.11.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-handlebars-extension.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/moment/moment.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/spservices/jquery-SPServices-2014.02.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/underscore/underscore.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-event-array.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-listsearch.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-standard.master.min.js"></script><script type="text/javascript" src="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/js/depaul-sitesearch.min.js"></script><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/bugneedsfixing.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/typeahead/jquery.typeahead.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/robotoslab/robotoslab.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/fonts.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/fontawesome/fontawesome-all.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/sourcesanspro/sourcesanspro.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/themes/dpu-law.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/accessibleMegaMenu/megamenu.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/bootstrap.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/dpu.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/sweetalert2/sweetalert2.min.css"><link type="text/css" rel="stylesheet" href="https://law.depaul.edu/_layouts/15/DU.SPBaseLibs/css/dpu-override.css"><link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx">
+        
+        
+    <link rel="" href="https://law.depaul.edu/_layouts/DU.SPBaseLibs/Styles/Images/apple-touch-icon.png"><link rel="shortcut icon" href="/_layouts/15/images/favicon.ico" type="image/vnd.microsoft.icon" id="favicon">
+        
+    
+    <script type="text/javascript">//<![CDATA[
+        var g_pageLoadAnimationParams = { elementSlideIn: "sideNavBox", elementSlideInPhase2: "contentBox" };
+        //]]></script>
+    <style>                
+        body {
+            overflow: auto;
+        }        
+    </style>
+    <meta name="google-site-verification" content="ScVSncG8b-hCXN-8RB4y6A2UI0y6lR0U8N3_1nMI_RE"><script>
+var dataLayer = window.dataLayer = window.dataLayer || [];
+dataLayer.push({
+  'siloAccount': 'UA-725436-1'
+});
+</script> 
+   
+    
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5BRT4J');</script><link rel="preload" href="/_layouts/15/DU.SPBaseLibs/css/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous"><style>
+
+.theme-law #s4-bodyContainer .bg-blue--light2 {
+        background-color: #87a8d2!important;
+    }
+  
+  .theme-law #s4-bodyContainer #ga-maincontent h2 {
+        color: #2a4160;
+    }
+
+    .theme-law #s4-bodyContainer #ga-maincontent h3 {
+        color: #175aa9;
+    }
+  .theme-law #s4-bodyContainer .site-title-short {
+    color: #7ac1eb!important;
+     }
+</style><script type="text/javascript">
+var wplistsearchitems = (typeof wplistsearchitems != 'undefined' && wplistsearchitems instanceof Array) ? wplistsearchitems : [];
+wplistsearchitems['g_7e8eb078_12ff_4dee_bafe_9760d81c842c'] = {
+listname: 'LawRecentNews',
+listpath: '/',
+viewname: 'All Items',
+displayfields: [ ['AricleTitle', 'LinkTitle', 'Computed'], ['ArticlePageURL', 'ArticlePageURL', 'Text'], ['ArticleDisplayDate', 'ArticleDisplayDate', 'Text'] ],
+searchfields: [  ],
+filterfields: [ ],
+hasClearAllbt: 'False',
+enableFilterDeepLinking: 'False',
+typeaheadtemplate: '',
+searchtext: 'Search keywords',
+paginationInterval: '5',
+isHideInitialResults: 'False',
+fieldmap: {
+	ows_LinkTitle: {mappedName:'AricleTitle', objectType:'Computed' }, 
+	ows_ArticlePageURL: {mappedName:'ArticlePageURL', objectType:'Text' }, 
+	ows_ArticleDisplayDate: {mappedName:'ArticleDisplayDate', objectType:'Text' }, 
+	ows_ID: {mappedName:'ID', objectType:'Counter' } 
+},
+listItemCollectionPosition: 'Paged=TRUE&p_ArticleDisplayDate=20210223%2006%3a00%3a00&p_ID=55', 
+hasnextpage: '1',
+resulttemplate: '<style type=\"text/css\"> #lawHomeLi {padding:10px 0;border-bottom: 1px hidden; height: 78px} .lawLiDiv {font-size:18px;line-height:19px;overflow:hidden;font-weight:bold} li.lwe {padding:10px;border-bottom: 1px dotted #ccc; height: 78px} </style>  <h3 class=\"media-heading\"></h3> {{#if rows}} <ul class=\"media-list no-bullets mt-4\" id=\"lawHomeUl\">    	{{#each rows}} 	 <li class=\"media\" id=\"lawHomeLi\">          <div class=\"lawLiDiv\">               <span>{{[ArticleDisplayDate]}} - </span>             <a href=\"{{[ArticlePageURL]}}\">{{AricleTitle}}</a>         </div>       </li>   	{{/each}} </ul> {{/if}}  ', 
+wpinitialitems: {Rows:  
+[{"AricleTitle":"International Human Rights Law Institute (IHRLI) Files Amicus Brief on Human Rights Violations of Incarcerated People",
+  "ArticlePageURL":     "https://law.depaul.edu/about/news/Pages/International-Human-Rights-Law-Institute-(IHRLI)-Files-Amicus-Brief-on-Human-Rights-Violations-of-Incarcerated-People.aspx",
+  "ArticleDisplayDate": "\/Date(1616130000000)\/"},
+ {"AricleTitle":"DePaulLaw Student Mary Hannon Publishes The Patent Bar Gender Gap",
+  "ArticlePageURL":     "https://law.depaul.edu/about/news/Pages/DePaul-Law-Student-Mary-Hannon-Publishes-The-Patent-Bar-Gender-Gap.aspx",
+  "ArticleDisplayDate": "\/Date(1614924000000)\/"},
+ {"AricleTitle":"Student Profile: Matthew Sanchez (\u002721)",
+  "ArticlePageURL":     "https://law.depaul.edu/about/news/Pages/Student-Profile-Matthew-Sanchez.aspx",
+  "ArticleDisplayDate": "\/Date(1614924000000)\/"},
+ {"AricleTitle":"DePaul Law\u0027s Pro Bono and Community Service Initiative Adds New Remote Projects",
+  "ArticlePageURL":     "https://law.depaul.edu/about/news/Pages/DePaul-Laws-Pro-Bono-and-Community-Service-Initiative-Adds-New-Remote-Projects.aspx",
+  "ArticleDisplayDate": "\/Date(1614236400000)\/"},
+ {"AricleTitle":"Criminal Appeals Clinic Successfully Argues for Client to the Appellate Court of Illinois, First District",
+  "ArticlePageURL":     "https://law.depaul.edu/about/news/Pages/criminal-appeals-clinic-win-for-lemar-hardy.aspx",
+  "ArticleDisplayDate": "\/Date(1614060000000)\/"}]},
+IsWpSearchable: 'False',
+wpsingleoremptyarray:'0'
+};</script><style>@charset "UTF-8";@-webkit-keyframes swal2-show{0%{-webkit-transform:scale(.7);transform:scale(.7)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes swal2-show{0%{-webkit-transform:scale(.7);transform:scale(.7)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}100%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes swal2-hide{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}100%{-webkit-transform:scale(.5);transform:scale(.5);opacity:0}}@keyframes swal2-hide{0%{-webkit-transform:scale(1);transform:scale(1);opacity:1}100%{-webkit-transform:scale(.5);transform:scale(.5);opacity:0}}@-webkit-keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.875em;width:1.5625em}}@keyframes swal2-animate-success-line-tip{0%{top:1.1875em;left:.0625em;width:0}54%{top:1.0625em;left:.125em;width:0}70%{top:2.1875em;left:-.375em;width:3.125em}84%{top:3em;left:1.3125em;width:1.0625em}100%{top:2.8125em;left:.875em;width:1.5625em}}@-webkit-keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@keyframes swal2-animate-success-line-long{0%{top:3.375em;right:2.875em;width:0}65%{top:3.375em;right:2.875em;width:0}84%{top:2.1875em;right:0;width:3.4375em}100%{top:2.375em;right:.5em;width:2.9375em}}@-webkit-keyframes swal2-rotate-success-circular-line{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}100%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@keyframes swal2-rotate-success-circular-line{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}100%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@-webkit-keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}50%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}80%{margin-top:-.375em;-webkit-transform:scale(1.15);transform:scale(1.15)}100%{margin-top:0;-webkit-transform:scale(1);transform:scale(1);opacity:1}}@keyframes swal2-animate-error-x-mark{0%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}50%{margin-top:1.625em;-webkit-transform:scale(.4);transform:scale(.4);opacity:0}80%{margin-top:-.375em;-webkit-transform:scale(1.15);transform:scale(1.15)}100%{margin-top:0;-webkit-transform:scale(1);transform:scale(1);opacity:1}}@-webkit-keyframes swal2-animate-error-icon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}100%{-webkit-transform:rotateX(0);transform:rotateX(0);opacity:1}}@keyframes swal2-animate-error-icon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}100%{-webkit-transform:rotateX(0);transform:rotateX(0);opacity:1}}body.swal2-toast-shown .swal2-container{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-shown{background-color:transparent}body.swal2-toast-shown .swal2-container.swal2-top{top:0;right:auto;bottom:auto;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-top-end,body.swal2-toast-shown .swal2-container.swal2-top-right{top:0;right:0;bottom:auto;left:auto}body.swal2-toast-shown .swal2-container.swal2-top-left,body.swal2-toast-shown .swal2-container.swal2-top-start{top:0;right:auto;bottom:auto;left:0}body.swal2-toast-shown .swal2-container.swal2-center-left,body.swal2-toast-shown .swal2-container.swal2-center-start{top:50%;right:auto;bottom:auto;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-center{top:50%;right:auto;bottom:auto;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}body.swal2-toast-shown .swal2-container.swal2-center-end,body.swal2-toast-shown .swal2-container.swal2-center-right{top:50%;right:0;bottom:auto;left:auto;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-left,body.swal2-toast-shown .swal2-container.swal2-bottom-start{top:auto;right:auto;bottom:0;left:0}body.swal2-toast-shown .swal2-container.swal2-bottom{top:auto;right:auto;bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-toast-shown .swal2-container.swal2-bottom-end,body.swal2-toast-shown .swal2-container.swal2-bottom-right{top:auto;right:0;bottom:0;left:auto}body.swal2-toast-column .swal2-toast{flex-direction:column;align-items:stretch}body.swal2-toast-column .swal2-toast .swal2-actions{flex:1;align-self:stretch;height:2.2em;margin-top:.3125em}body.swal2-toast-column .swal2-toast .swal2-loading{justify-content:center}body.swal2-toast-column .swal2-toast .swal2-input{height:2em;margin:.3125em auto;font-size:1em}body.swal2-toast-column .swal2-toast .swal2-validation-message{font-size:1em}.swal2-popup.swal2-toast{flex-direction:row;align-items:center;width:auto;padding:.625em;overflow-y:hidden;box-shadow:0 0 .625em #d9d9d9}.swal2-popup.swal2-toast .swal2-header{flex-direction:row}.swal2-popup.swal2-toast .swal2-title{flex-grow:1;justify-content:flex-start;margin:0 .6em;font-size:1em}.swal2-popup.swal2-toast .swal2-footer{margin:.5em 0 0;padding:.5em 0 0;font-size:.8em}.swal2-popup.swal2-toast .swal2-close{position:initial;width:.8em;height:.8em;line-height:.8}.swal2-popup.swal2-toast .swal2-content{justify-content:flex-start;font-size:1em}.swal2-popup.swal2-toast .swal2-icon{width:2em;min-width:2em;height:2em;margin:0}.swal2-popup.swal2-toast .swal2-icon::before{display:flex;align-items:center;font-size:2em;font-weight:700}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-popup.swal2-toast .swal2-icon::before{font-size:.25em}}.swal2-popup.swal2-toast .swal2-icon.swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line]{top:.875em;width:1.375em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:.3125em}.swal2-popup.swal2-toast .swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:.3125em}.swal2-popup.swal2-toast .swal2-actions{height:auto;margin:0 .3125em}.swal2-popup.swal2-toast .swal2-styled{margin:0 .3125em;padding:.3125em .625em;font-size:1em}.swal2-popup.swal2-toast .swal2-styled:focus{box-shadow:0 0 0 .0625em #fff,0 0 0 .125em rgba(50,100,150,.4)}.swal2-popup.swal2-toast .swal2-success{border-color:#a5dc86}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line]{position:absolute;width:2em;height:2.8125em;-webkit-transform:rotate(45deg);transform:rotate(45deg);border-radius:50%}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.25em;left:-.9375em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:2em 2em;transform-origin:2em 2em;border-radius:4em 0 0 4em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.25em;left:.9375em;-webkit-transform-origin:0 2em;transform-origin:0 2em;border-radius:0 4em 4em 0}.swal2-popup.swal2-toast .swal2-success .swal2-success-ring{width:2em;height:2em}.swal2-popup.swal2-toast .swal2-success .swal2-success-fix{top:0;left:.4375em;width:.4375em;height:2.6875em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line]{height:.3125em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=tip]{top:1.125em;left:.1875em;width:.75em}.swal2-popup.swal2-toast .swal2-success [class^=swal2-success-line][class$=long]{top:.9375em;right:.1875em;width:1.375em}.swal2-popup.swal2-toast.swal2-show{-webkit-animation:showSweetToast .5s;animation:showSweetToast .5s}.swal2-popup.swal2-toast.swal2-hide{-webkit-animation:hideSweetToast .2s forwards;animation:hideSweetToast .2s forwards}.swal2-popup.swal2-toast .swal2-animate-success-icon .swal2-success-line-tip{-webkit-animation:animate-toast-success-tip .75s;animation:animate-toast-success-tip .75s}.swal2-popup.swal2-toast .swal2-animate-success-icon .swal2-success-line-long{-webkit-animation:animate-toast-success-long .75s;animation:animate-toast-success-long .75s}@-webkit-keyframes showSweetToast{0%{-webkit-transform:translateY(-.625em) rotateZ(2deg);transform:translateY(-.625em) rotateZ(2deg);opacity:0}33%{-webkit-transform:translateY(0) rotateZ(-2deg);transform:translateY(0) rotateZ(-2deg);opacity:.5}66%{-webkit-transform:translateY(.3125em) rotateZ(2deg);transform:translateY(.3125em) rotateZ(2deg);opacity:.7}100%{-webkit-transform:translateY(0) rotateZ(0);transform:translateY(0) rotateZ(0);opacity:1}}@keyframes showSweetToast{0%{-webkit-transform:translateY(-.625em) rotateZ(2deg);transform:translateY(-.625em) rotateZ(2deg);opacity:0}33%{-webkit-transform:translateY(0) rotateZ(-2deg);transform:translateY(0) rotateZ(-2deg);opacity:.5}66%{-webkit-transform:translateY(.3125em) rotateZ(2deg);transform:translateY(.3125em) rotateZ(2deg);opacity:.7}100%{-webkit-transform:translateY(0) rotateZ(0);transform:translateY(0) rotateZ(0);opacity:1}}@-webkit-keyframes hideSweetToast{0%{opacity:1}33%{opacity:.5}100%{-webkit-transform:rotateZ(1deg);transform:rotateZ(1deg);opacity:0}}@keyframes hideSweetToast{0%{opacity:1}33%{opacity:.5}100%{-webkit-transform:rotateZ(1deg);transform:rotateZ(1deg);opacity:0}}@-webkit-keyframes animate-toast-success-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@keyframes animate-toast-success-tip{0%{top:.5625em;left:.0625em;width:0}54%{top:.125em;left:.125em;width:0}70%{top:.625em;left:-.25em;width:1.625em}84%{top:1.0625em;left:.75em;width:.5em}100%{top:1.125em;left:.1875em;width:.75em}}@-webkit-keyframes animate-toast-success-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}@keyframes animate-toast-success-long{0%{top:1.625em;right:1.375em;width:0}65%{top:1.25em;right:.9375em;width:0}84%{top:.9375em;right:0;width:1.125em}100%{top:.9375em;right:.1875em;width:1.375em}}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow:hidden}body.swal2-height-auto{height:auto!important}body.swal2-no-backdrop .swal2-shown{top:auto;right:auto;bottom:auto;left:auto;max-width:calc(100% - .625em * 2);background-color:transparent}body.swal2-no-backdrop .swal2-shown>.swal2-modal{box-shadow:0 0 10px rgba(0,0,0,.4)}body.swal2-no-backdrop .swal2-shown.swal2-top{top:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-top-left,body.swal2-no-backdrop .swal2-shown.swal2-top-start{top:0;left:0}body.swal2-no-backdrop .swal2-shown.swal2-top-end,body.swal2-no-backdrop .swal2-shown.swal2-top-right{top:0;right:0}body.swal2-no-backdrop .swal2-shown.swal2-center{top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}body.swal2-no-backdrop .swal2-shown.swal2-center-left,body.swal2-no-backdrop .swal2-shown.swal2-center-start{top:50%;left:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-center-end,body.swal2-no-backdrop .swal2-shown.swal2-center-right{top:50%;right:0;-webkit-transform:translateY(-50%);transform:translateY(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-bottom{bottom:0;left:50%;-webkit-transform:translateX(-50%);transform:translateX(-50%)}body.swal2-no-backdrop .swal2-shown.swal2-bottom-left,body.swal2-no-backdrop .swal2-shown.swal2-bottom-start{bottom:0;left:0}body.swal2-no-backdrop .swal2-shown.swal2-bottom-end,body.swal2-no-backdrop .swal2-shown.swal2-bottom-right{right:0;bottom:0}.swal2-container{display:flex;position:fixed;z-index:1060;top:0;right:0;bottom:0;left:0;flex-direction:row;align-items:center;justify-content:center;padding:.625em;overflow-x:hidden;background-color:transparent;-webkit-overflow-scrolling:touch}.swal2-container.swal2-top{align-items:flex-start}.swal2-container.swal2-top-left,.swal2-container.swal2-top-start{align-items:flex-start;justify-content:flex-start}.swal2-container.swal2-top-end,.swal2-container.swal2-top-right{align-items:flex-start;justify-content:flex-end}.swal2-container.swal2-center{align-items:center}.swal2-container.swal2-center-left,.swal2-container.swal2-center-start{align-items:center;justify-content:flex-start}.swal2-container.swal2-center-end,.swal2-container.swal2-center-right{align-items:center;justify-content:flex-end}.swal2-container.swal2-bottom{align-items:flex-end}.swal2-container.swal2-bottom-left,.swal2-container.swal2-bottom-start{align-items:flex-end;justify-content:flex-start}.swal2-container.swal2-bottom-end,.swal2-container.swal2-bottom-right{align-items:flex-end;justify-content:flex-end}.swal2-container.swal2-bottom-end>:first-child,.swal2-container.swal2-bottom-left>:first-child,.swal2-container.swal2-bottom-right>:first-child,.swal2-container.swal2-bottom-start>:first-child,.swal2-container.swal2-bottom>:first-child{margin-top:auto}.swal2-container.swal2-grow-fullscreen>.swal2-modal{display:flex!important;flex:1;align-self:stretch;justify-content:center}.swal2-container.swal2-grow-row>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container.swal2-grow-column{flex:1;flex-direction:column}.swal2-container.swal2-grow-column.swal2-bottom,.swal2-container.swal2-grow-column.swal2-center,.swal2-container.swal2-grow-column.swal2-top{align-items:center}.swal2-container.swal2-grow-column.swal2-bottom-left,.swal2-container.swal2-grow-column.swal2-bottom-start,.swal2-container.swal2-grow-column.swal2-center-left,.swal2-container.swal2-grow-column.swal2-center-start,.swal2-container.swal2-grow-column.swal2-top-left,.swal2-container.swal2-grow-column.swal2-top-start{align-items:flex-start}.swal2-container.swal2-grow-column.swal2-bottom-end,.swal2-container.swal2-grow-column.swal2-bottom-right,.swal2-container.swal2-grow-column.swal2-center-end,.swal2-container.swal2-grow-column.swal2-center-right,.swal2-container.swal2-grow-column.swal2-top-end,.swal2-container.swal2-grow-column.swal2-top-right{align-items:flex-end}.swal2-container.swal2-grow-column>.swal2-modal{display:flex!important;flex:1;align-content:center;justify-content:center}.swal2-container:not(.swal2-top):not(.swal2-top-start):not(.swal2-top-end):not(.swal2-top-left):not(.swal2-top-right):not(.swal2-center-start):not(.swal2-center-end):not(.swal2-center-left):not(.swal2-center-right):not(.swal2-bottom):not(.swal2-bottom-start):not(.swal2-bottom-end):not(.swal2-bottom-left):not(.swal2-bottom-right):not(.swal2-grow-fullscreen)>.swal2-modal{margin:auto}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-container .swal2-modal{margin:0!important}}.swal2-container.swal2-fade{transition:background-color .1s}.swal2-container.swal2-shown{background-color:rgba(0,0,0,.4)}.swal2-popup{display:none;position:relative;box-sizing:border-box;flex-direction:column;justify-content:center;width:32em;max-width:100%;padding:1.25em;border-radius:.3125em;background:#fff;font-family:inherit;font-size:1rem}.swal2-popup:focus{outline:0}.swal2-popup.swal2-loading{overflow-y:hidden}.swal2-header{display:flex;flex-direction:column;align-items:center}.swal2-title{position:relative;max-width:100%;margin:0 0 .4em;padding:0;color:#595959;font-size:1.875em;font-weight:600;text-align:center;text-transform:none;word-wrap:break-word}.swal2-actions{z-index:1;flex-wrap:wrap;align-items:center;justify-content:center;margin:1.25em auto 0}.swal2-actions:not(.swal2-loading) .swal2-styled[disabled]{opacity:.4}.swal2-actions:not(.swal2-loading) .swal2-styled:hover{background-image:linear-gradient(rgba(0,0,0,.1),rgba(0,0,0,.1))}.swal2-actions:not(.swal2-loading) .swal2-styled:active{background-image:linear-gradient(rgba(0,0,0,.2),rgba(0,0,0,.2))}.swal2-actions.swal2-loading .swal2-styled.swal2-confirm{box-sizing:border-box;width:2.5em;height:2.5em;margin:.46875em;padding:0;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:.25em solid transparent;border-radius:100%;border-color:transparent;background-color:transparent!important;color:transparent;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-actions.swal2-loading .swal2-styled.swal2-cancel{margin-right:30px;margin-left:30px}.swal2-actions.swal2-loading :not(.swal2-styled).swal2-confirm::after{content:'';display:inline-block;width:15px;height:15px;margin-left:5px;-webkit-animation:swal2-rotate-loading 1.5s linear 0s infinite normal;animation:swal2-rotate-loading 1.5s linear 0s infinite normal;border:3px solid #999;border-radius:50%;border-right-color:transparent;box-shadow:1px 1px 1px #fff}.swal2-styled{margin:.3125em;padding:.625em 2em;box-shadow:none;font-weight:500}.swal2-styled:not([disabled]){cursor:pointer}.swal2-styled.swal2-confirm{border:0;border-radius:.25em;background:initial;background-color:#3085d6;color:#fff;font-size:1.0625em}.swal2-styled.swal2-cancel{border:0;border-radius:.25em;background:initial;background-color:#aaa;color:#fff;font-size:1.0625em}.swal2-styled:focus{outline:0;box-shadow:0 0 0 2px #fff,0 0 0 4px rgba(50,100,150,.4)}.swal2-styled::-moz-focus-inner{border:0}.swal2-footer{justify-content:center;margin:1.25em 0 0;padding:1em 0 0;border-top:1px solid #eee;color:#545454;font-size:1em}.swal2-image{max-width:100%;margin:1.25em auto}.swal2-close{position:absolute;top:0;right:0;justify-content:center;width:1.2em;height:1.2em;padding:0;overflow:hidden;transition:color .1s ease-out;border:none;border-radius:0;outline:initial;background:0 0;color:#ccc;font-family:serif;font-size:2.5em;line-height:1.2;cursor:pointer}.swal2-close:hover{-webkit-transform:none;transform:none;color:#f27474}.swal2-content{z-index:1;justify-content:center;margin:0;padding:0;color:#545454;font-size:1.125em;font-weight:300;line-height:normal;word-wrap:break-word}#swal2-content{text-align:center}.swal2-checkbox,.swal2-file,.swal2-input,.swal2-radio,.swal2-select,.swal2-textarea{margin:1em auto}.swal2-file,.swal2-input,.swal2-textarea{box-sizing:border-box;width:100%;transition:border-color .3s,box-shadow .3s;border:1px solid #d9d9d9;border-radius:.1875em;background:inherit;box-shadow:inset 0 1px 1px rgba(0,0,0,.06);font-size:1.125em}.swal2-file.swal2-inputerror,.swal2-input.swal2-inputerror,.swal2-textarea.swal2-inputerror{border-color:#f27474!important;box-shadow:0 0 2px #f27474!important}.swal2-file:focus,.swal2-input:focus,.swal2-textarea:focus{border:1px solid #b4dbed;outline:0;box-shadow:0 0 3px #c4e6f5}.swal2-file::-webkit-input-placeholder,.swal2-input::-webkit-input-placeholder,.swal2-textarea::-webkit-input-placeholder{color:#ccc}.swal2-file:-ms-input-placeholder,.swal2-input:-ms-input-placeholder,.swal2-textarea:-ms-input-placeholder{color:#ccc}.swal2-file::-ms-input-placeholder,.swal2-input::-ms-input-placeholder,.swal2-textarea::-ms-input-placeholder{color:#ccc}.swal2-file::placeholder,.swal2-input::placeholder,.swal2-textarea::placeholder{color:#ccc}.swal2-range{margin:1em auto;background:inherit}.swal2-range input{width:80%}.swal2-range output{width:20%;font-weight:600;text-align:center}.swal2-range input,.swal2-range output{height:2.625em;padding:0;font-size:1.125em;line-height:2.625em}.swal2-input{height:2.625em;padding:0 .75em}.swal2-input[type=number]{max-width:10em}.swal2-file{background:inherit;font-size:1.125em}.swal2-textarea{height:6.75em;padding:.75em}.swal2-select{min-width:50%;max-width:100%;padding:.375em .625em;background:inherit;color:#545454;font-size:1.125em}.swal2-checkbox,.swal2-radio{align-items:center;justify-content:center;background:inherit}.swal2-checkbox label,.swal2-radio label{margin:0 .6em;font-size:1.125em}.swal2-checkbox input,.swal2-radio input{margin:0 .4em}.swal2-validation-message{display:none;align-items:center;justify-content:center;padding:.625em;overflow:hidden;background:#f0f0f0;color:#666;font-size:1em;font-weight:300}.swal2-validation-message::before{content:'!';display:inline-block;width:1.5em;min-width:1.5em;height:1.5em;margin:0 .625em;zoom:normal;border-radius:50%;background-color:#f27474;color:#fff;font-weight:600;line-height:1.5em;text-align:center}@supports (-ms-accelerator:true){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@media all and (-ms-high-contrast:none),(-ms-high-contrast:active){.swal2-range input{width:100%!important}.swal2-range output{display:none}}@-moz-document url-prefix(){.swal2-close:focus{outline:2px solid rgba(50,100,150,.4)}}.swal2-icon{position:relative;box-sizing:content-box;justify-content:center;width:5em;height:5em;margin:1.25em auto 1.875em;zoom:normal;border:.25em solid transparent;border-radius:50%;line-height:5em;cursor:default;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swal2-icon::before{display:flex;align-items:center;height:92%;font-size:3.75em}.swal2-icon.swal2-error{border-color:#f27474}.swal2-icon.swal2-error .swal2-x-mark{position:relative;flex-grow:1}.swal2-icon.swal2-error [class^=swal2-x-mark-line]{display:block;position:absolute;top:2.3125em;width:2.9375em;height:.3125em;border-radius:.125em;background-color:#f27474}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=left]{left:1.0625em;-webkit-transform:rotate(45deg);transform:rotate(45deg)}.swal2-icon.swal2-error [class^=swal2-x-mark-line][class$=right]{right:1em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal2-icon.swal2-warning{border-color:#facea8;color:#f8bb86}.swal2-icon.swal2-warning::before{content:'!'}.swal2-icon.swal2-info{border-color:#9de0f6;color:#3fc3ee}.swal2-icon.swal2-info::before{content:'i'}.swal2-icon.swal2-question{border-color:#c9dae1;color:#87adbd}.swal2-icon.swal2-question::before{content:'?'}.swal2-icon.swal2-question.swal2-arabic-question-mark::before{content:'؟'}.swal2-icon.swal2-success{border-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-circular-line]{position:absolute;width:3.75em;height:7.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);border-radius:50%}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=left]{top:-.4375em;left:-2.0635em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:3.75em 3.75em;transform-origin:3.75em 3.75em;border-radius:7.5em 0 0 7.5em}.swal2-icon.swal2-success [class^=swal2-success-circular-line][class$=right]{top:-.6875em;left:1.875em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 3.75em;transform-origin:0 3.75em;border-radius:0 7.5em 7.5em 0}.swal2-icon.swal2-success .swal2-success-ring{position:absolute;z-index:2;top:-.25em;left:-.25em;box-sizing:content-box;width:100%;height:100%;border:.25em solid rgba(165,220,134,.3);border-radius:50%}.swal2-icon.swal2-success .swal2-success-fix{position:absolute;z-index:1;top:.5em;left:1.625em;width:.4375em;height:5.625em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal2-icon.swal2-success [class^=swal2-success-line]{display:block;position:absolute;z-index:2;height:.3125em;border-radius:.125em;background-color:#a5dc86}.swal2-icon.swal2-success [class^=swal2-success-line][class$=tip]{top:2.875em;left:.875em;width:1.5625em;-webkit-transform:rotate(45deg);transform:rotate(45deg)}.swal2-icon.swal2-success [class^=swal2-success-line][class$=long]{top:2.375em;right:.5em;width:2.9375em;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal2-progress-steps{align-items:center;margin:0 0 1.25em;padding:0;background:inherit;font-weight:600}.swal2-progress-steps li{display:inline-block;position:relative}.swal2-progress-steps .swal2-progress-step{z-index:20;width:2em;height:2em;border-radius:2em;background:#3085d6;color:#fff;line-height:2em;text-align:center}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step{background:#3085d6}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step{background:#add8e6;color:#fff}.swal2-progress-steps .swal2-progress-step.swal2-active-progress-step~.swal2-progress-step-line{background:#add8e6}.swal2-progress-steps .swal2-progress-step-line{z-index:10;width:2.5em;height:.4em;margin:0 -1px;background:#3085d6}[class^=swal2]{-webkit-tap-highlight-color:transparent}.swal2-show{-webkit-animation:swal2-show .3s;animation:swal2-show .3s}.swal2-show.swal2-noanimation{-webkit-animation:none;animation:none}.swal2-hide{-webkit-animation:swal2-hide .15s forwards;animation:swal2-hide .15s forwards}.swal2-hide.swal2-noanimation{-webkit-animation:none;animation:none}.swal2-rtl .swal2-close{right:auto;left:0}.swal2-animate-success-icon .swal2-success-line-tip{-webkit-animation:swal2-animate-success-line-tip .75s;animation:swal2-animate-success-line-tip .75s}.swal2-animate-success-icon .swal2-success-line-long{-webkit-animation:swal2-animate-success-line-long .75s;animation:swal2-animate-success-line-long .75s}.swal2-animate-success-icon .swal2-success-circular-line-right{-webkit-animation:swal2-rotate-success-circular-line 4.25s ease-in;animation:swal2-rotate-success-circular-line 4.25s ease-in}.swal2-animate-error-icon{-webkit-animation:swal2-animate-error-icon .5s;animation:swal2-animate-error-icon .5s}.swal2-animate-error-icon .swal2-x-mark{-webkit-animation:swal2-animate-error-x-mark .5s;animation:swal2-animate-error-x-mark .5s}@-webkit-keyframes swal2-rotate-loading{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@keyframes swal2-rotate-loading{0%{-webkit-transform:rotate(0);transform:rotate(0)}100%{-webkit-transform:rotate(360deg);transform:rotate(360deg)}}@media print{body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown){overflow-y:scroll!important}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown)>[aria-hidden=true]{display:none}body.swal2-shown:not(.swal2-no-backdrop):not(.swal2-toast-shown) .swal2-container{position:initial!important}}</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/842031037/?random=1620513775532&amp;cv=9&amp;fst=1620513775532&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=900&amp;u_w=1440&amp;u_ah=810&amp;u_aw=1440&amp;u_cd=24&amp;u_his=2&amp;u_tz=-420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg4s0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx&amp;tiba=College%20of%20Law%20%7C%20DePaul%20University%2C%20Chicago&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><meta http-equiv="origin-trial" content="A7iusd6XVbb7SOF83vXQdziVdvBy4R7Bh2tuVErLbKXxemIjQH20g7jWaz48nG08Cd6zfylzuF+H+1s9S3JodAEAAACOeyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbTo0NDMiLCJmZWF0dXJlIjoiQ29udmVyc2lvbk1lYXN1cmVtZW50IiwiZXhwaXJ5IjoxNjI2MjIwNzk5LCJpc1N1YmRvbWFpbiI6dHJ1ZSwiaXNUaGlyZFBhcnR5Ijp0cnVlfQ=="><script src="https://www.googleadservices.com/pagead/conversion/8928774/?random=1620513775534&amp;cv=9&amp;fst=1620513775534&amp;num=1&amp;value=lawho0&amp;label=leadg0&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=900&amp;u_w=1440&amp;u_ah=810&amp;u_aw=1440&amp;u_cd=24&amp;u_his=2&amp;u_tz=-420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg4s0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx&amp;tiba=College%20of%20Law%20%7C%20DePaul%20University%2C%20Chicago&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.googleadservices.com/pagead/conversion/842031037/?random=1620513775539&amp;cv=9&amp;fst=1620513775539&amp;num=1&amp;value=0&amp;label=OZcVCJzQvNgBEL2_wZED&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=900&amp;u_w=1440&amp;u_ah=810&amp;u_aw=1440&amp;u_cd=24&amp;u_his=2&amp;u_tz=-420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg4s0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx&amp;tiba=College%20of%20Law%20%7C%20DePaul%20University%2C%20Chicago&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://www.googleadservices.com/pagead/conversion/842031037/?random=1620513775543&amp;cv=9&amp;fst=1620513775543&amp;num=1&amp;value=0&amp;label=1wgeCMiA3OIBEL2_wZED&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=2505059651&amp;u_h=900&amp;u_w=1440&amp;u_ah=810&amp;u_aw=1440&amp;u_cd=24&amp;u_his=2&amp;u_tz=-420&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wg4s0&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx&amp;tiba=College%20of%20Law%20%7C%20DePaul%20University%2C%20Chicago&amp;capi=1&amp;hn=www.googleadservices.com&amp;bttype=purchase&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" src="/_layouts/15/core.js?rev=Zq%2FMfbnmjbbiqyBYDL3VmQ%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/mquery.js?rev=gflWbKYXPS7eNkD4ctUWcw%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/sp.init.js?rev=sSaCBeanR%2BmeYr%2FS28tXBQ%3D%3DTAG0"></script><script type="text/javascript" src="/_layouts/15/sp.core.js?rev=wauuPXDIYOX0dhdEg3lksw%3D%3DTAG0"></script><script async="" src="https://mx.technolutions.net/ping?id=ca6de72f-77d1-b3f8-0fd9-8dcf7f69c8c0&amp;sid=MRuUO1vla3OAVyoY29NM97nqO9Oqt_cx2RBck9YtWfVkF0HgZun7YioVnHeQPLNLtqTncidJL9PxHmhN70Nf1utfjHSXkBICjXnQkzqioCk&amp;hid=0a55e970-fce8-ee9a-e02e-7db9c28d5039"></script><script async="" src="https://mx.technolutions.net/ping?id=f87a636a-00cf-2af6-cb18-78549fec1257&amp;sid=gh9NBLI00yafXSbPpAExyyj0s3m2hcEzBCa715SWsVY44bnInZy4_DIAcCy-2lOmAfVXdP8iMfUZ2XVl-D8-U2oczxslYj0ev04uhlrrLy18I57hY7_HMfwckOzeLyHH&amp;hid=6a3432e6-0cfa-cd3b-f9ed-d1ac4f3f91f3"></script></head>
+<body id="ctl00_MasterPageBodyTag" onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();" class="theme-law ms-backgroundImage" data-ol-has-click-handler=""><!-- googleoff: all--><!-- noindex--><div id="dpu-notice-banner" data-nosnippet="true" class="alert alert-warning text-center mb-0 mt-0 rounded-0 robots-noindex robots-nocontent" roll="alert">Visit <a href="https://go.depaul.edu/covid"><u>go.depaul.edu/covid</u></a> for COVID-19 updates and guidance. Questions? Call <a href="tel:312-362-8000"><u>(312) 362-8000</u></a> from 9 a.m.-5 p.m. (CST) M-F.</div><!-- /noindex--><!-- googleon: all -->
+    <form method="post" action="/Pages/default.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" data-ol-has-click-handler="">
+<div class="aspNetHidden">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="">
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="">
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="">
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="">
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0">
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False">
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="">
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="">
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xABC8842591791437E8F41A63B349E83175D38CCCC1B7E539EEA726A0EACE83E7CFCFFF145A1EEE828F66EC23D352D68B4524B0B702CF8BB5E1E70B1274F70654,08 May 2021 22:42:54 -0000">
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false">
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="">
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="">
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="">
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="">
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="">
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse">
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false">
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNDQzMDQ4ODIPZBYCZg9kFgZmDw8WAh4HVmlzaWJsZWhkZAICD2QWBAJFD2QWAgIDD2QWAgIBD2QWAmYPPCsABgBkAkgPZBYCAgMPZBYCAgEPZBYCZg88KwAGAGQCBA8WBB4Mb25oYXNoY2hhbmdlBUZpZiAodHlwZW9mKF9zcEJvZHlPbkhhc2hDaGFuZ2UpICE9ICd1bmRlZmluZWQnKSBfc3BCb2R5T25IYXNoQ2hhbmdlKCk7HgVjbGFzcwUJdGhlbWUtbGF3FgICAQ9kFgoCCw9kFgYFJmdfMWZiZjkzMzNfNGNiOF80ZTVjX2IzNmJfMjZhNzFjZTM5ZGFhDw8WAh4KQ2hyb21lVHlwZQICZBYCZg9kFgJmD2QWAgIBD2QWAgICDxYEHgRUZXh0BZY+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIGxhbmd1YWdlPSJqYXZhc2NyaXB0Ij4gDQoNCmZ1bmN0aW9uIGZpbGxBcnJheSh0aGVBcnJheSwgY2xhc3NOYW1lKXsNCg0KICAgIHZhciBjb3VudCA9IDA7DQoJCS8vY29uc29sZS5sb2coImNsYXNzMDogIiArIGNsYXNzTmFtZSk7DQoJCSQoY2xhc3NOYW1lKS5lYWNoKGZ1bmN0aW9uKCkgew0KICAgICAgLy9jb25zb2xlLmxvZygkKHRoaXMpLnRleHQoKSk7DQogICAgICAvL2NvbnNvbGUubG9nKCQodGhpcykuaHRtbCgpKTsNCiAgICAgIC8vY29uc29sZS5sb2coJCh0aGlzKS52YWwoKSk7DQoJCQl0aGVBcnJheVtjb3VudF0gPSAkKHRoaXMpLmh0bWwoKTsNCiAgICAgIA0KICAgICAgaWYoIGNsYXNzTmFtZSA9PSAnLm5naW54aW1hZ2VjYWNoZScpew0KICAgICAgICAvL2NvbnNvbGUubG9nKCJjbGFzczogIiArICAkKHRoaXMpLmh0bWwoKSk7DQogICAgICAgIHVwZGF0ZU5naW54Q2FjaGVWYWx1ZSgkKHRoaXMpKTsNCiAgICAgICAgLy9jb25zb2xlLmxvZygiaGkiKTsNCiAgICAgIH0NCgkJCWNvdW50Kys7DQoJCX0pOw0KDQp9DQoNCmZ1bmN0aW9uIHVwZGF0ZU5naW54Q2FjaGVWYWx1ZSh0aGVodG1sKXsNCiAgICAvLy8vIERPIFRISVMgUFJFUEVORCBQUk9UT0NPTCAmIEhPU1ROQU1FIFRPIFRIRSBJTUFHRSANCiAgICB2YXIgcHJlUGVuZCA9ICIiOw0KICAgIHZhciBwYXRobmFtZSA9IGRvY3VtZW50LmxvY2F0aW9uLnBhdGhuYW1lOw0KICAgIHZhciBmaXJzdEluZGV4T2YgPSAwOw0KICAgIHZhciBzZWNvbmRJbmRleE9mID0gMDsNCg0KDQoNCiAgICBwcmVQZW5kID0gZG9jdW1lbnQubG9jYXRpb24ub3JpZ2luOw0KICAgIC8vY29uc29sZS5sb2coInRoZSBodG1sOiAiICsgdGhlaHRtbC5odG1sKCkpOw0KICAgIC8vY29uc29sZS5sb2coZG9jdW1lbnQubG9jYXRpb24ucGF0aG5hbWUpOw0KICAgIHRoZWh0bWwuaHRtbChwcmVQZW5kICsgdGhlaHRtbC5odG1sKCkpOw0KfQ0KDQoNCg0KalF1ZXJ5KGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoJCl7DQoJDQoJICAgIHZhciBpbWFnZUxpc3QgPSBbXTsJDQoJICAgIHZhciBpbWFnZVRleHQgPSBbXTsNCiAgICAgIHZhciBpbWFnZUFsdFRleHQgPSBbXTsNCgkgICAgdmFyIGltYWdlVVJMID0gW107DQoJICAgIHZhciBpbWFnZVVSTFRleHQgPSBbXTsNCgkJICB2YXIgaW1hZ2VIZWFkZXJUeXBlID0gW107DQogICAgICB2YXIgaW1hZ2VUZW1wbGF0ZU5hbWUgPSBbXTsNCiAgICAgIHZhciBzaXRlUHJvdG9jb2wgPSB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2w7DQogICAgICB2YXIgc2l0ZUhvc3QgPSB3aW5kb3cubG9jYXRpb24uaG9zdG5hbWU7DQoNCgkJDQoJICAgIHZhciByYW5kb21BcnJheUl0ZW1OdW1iZXIgPSAwOw0KDQoJICAgIHZhciBub3dJbWFnZSA9ICIiOw0KCSAgICB2YXIgbm93VGV4dCA9ICIiOw0KICAgICAgdmFyIG5vd0FsdFRleHQgPSAiIjsNCgkgICAgdmFyIG5vd0xpbmsgPSAiIjsNCgkJICB2YXIgY2xvc2luZ0RpdnMgPSAiPC9kaXY+PC9kaXY+IjsNCiAgICAgIHZhciBjYXJkVGV4dCA9ICIiOw0KICAgICAgdmFyIHRlbXBsYXRlTmFtZSA9ICIiOw0KCQ0KCSAgICBmaWxsQXJyYXkoaW1hZ2VMaXN0LCAiLm5naW54aW1hZ2VjYWNoZSIpOw0KCSAgICBmaWxsQXJyYXkoaW1hZ2VUZXh0LCAiLmltYWdlSGVhZGVyVGV4dCIpOw0KICAgICAgZmlsbEFycmF5KGltYWdlQWx0VGV4dCwgIi5pbWFnZUhlYWRlckFsdFRleHQiKTsNCgkgICAgZmlsbEFycmF5KGltYWdlVVJMVGV4dCwgIi5pbWFnZUhlYWRlckxpbmtUZXh0Iik7CQ0KCSAgICBmaWxsQXJyYXkoaW1hZ2VVUkwsICIuaW1hZ2VIZWFkZXJMaW5rVVJMIik7DQoJCSAgZmlsbEFycmF5KGltYWdlSGVhZGVyVHlwZSwgIi5pbWFnZUhlYWRlclR5cGUiKTsNCiAgICAgIGZpbGxBcnJheShpbWFnZVRlbXBsYXRlTmFtZSwgIi5pbWFnZVRlbXBsYXRlTmFtZSIpOw0KICAgICAgDQoJICAgIHJhbmRvbUFycmF5SXRlbU51bWJlciA9IE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIGltYWdlTGlzdC5sZW5ndGgpOw0KCSAgICANCgkgICAgbm93SW1hZ2UgPSBpbWFnZUxpc3RbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXTsNCiAgICAgIG5vd0FsdFRleHQgPSBpbWFnZUFsdFRleHRbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXTsNCgkgICAgJCgiI2hlcm9GdWxsSW1hZ2UiKS5hdHRyKCJzcmMiLCBub3dJbWFnZSk7DQogICAgICAkKCIjaGVyb0Z1bGxJbWFnZSIpLmF0dHIoImFsdCIsIG5vd0FsdFRleHQpOw0KCSAgJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5hZGRDbGFzcyhpbWFnZVRlbXBsYXRlTmFtZVtyYW5kb21BcnJheUl0ZW1OdW1iZXJdKTsNCgkgICAgICANCiAgICAgIC8qIGlmIChpbWFnZUhlYWRlclR5cGVbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXSA9PSAiUmFuZG9tSW1hZ2VIZWFkZXI0NTAiICl7DQogICAgICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0nYmctYmxlbmQtLWJsdWUtaGFyZC1saWdodCBpbWFnZS1oZWFkZXItLWNvbGxlZ2VfX2NvbnRlbnQnPjxkaXYgY2xhc3M9J2NvbnRhaW5lci0xMDgwICc+PGgyIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC13aGl0ZSBteS00IHRleHQtc2hhZG93IGgxJz4iICsgaW1hZ2VUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9oMj4iOw0KICAgICAgfSBlbHNlIGlmKGltYWdlSGVhZGVyVHlwZVtyYW5kb21BcnJheUl0ZW1OdW1iZXJdID09ICJSYW5kb21JbWFnZUhlYWRlcldIMTQ1MCIgKXsNCgkJICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0naW1hZ2UtaGVhZGVyLS1jb2xsZWdlX19jb250ZW50Jz48ZGl2IGNsYXNzPSdjb250YWluZXItMTA4MCAnPjxoMSBjbGFzcz0ndXBwZXJjYXNlIHRleHQtd2hpdGUgbXktNCB0ZXh0LXNoYWRvdyBib3JkZXItMCBzb2xvSDEnID4iICsgaW1hZ2VUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9oMT4iDQoJICAgIH0gZWxzZSBpZihpbWFnZUhlYWRlclR5cGVbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXSA9PSAiUmFuZG9tT2ZmaWNlSW1hZ2VIZWFkZXI1NTAiICl7DQoJCSAgICBub3dUZXh0ID0gIjxkaXYgY2xhc3M9J2JnLWJsZW5kLS1ibHVlLWhhcmQtbGlnaHQgaW1hZ2UtaGVhZGVyLS1jb2xsZWdlX19jb250ZW50Jz48ZGl2IGNsYXNzPSdjb250YWluZXItMTIwMCc+PGgxIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC13aGl0ZSBib3JkZXItMCBteS00IHRleHQtc2hhZG93IHNvbG9IMSc+IiArIGltYWdlVGV4dFtyYW5kb21BcnJheUl0ZW1OdW1iZXJdICsgIjwvaDE+Ig0KCSAgICB9IGVsc2Ugew0KCSAgICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0nYmctYmxlbmQtLWJsdWUtaGFyZC1saWdodCBpbWFnZS1oZWFkZXItLWNvbGxlZ2VfX2NvbnRlbnQnPjxkaXYgY2xhc3M9J2NvbnRhaW5lci0xMDgwICc+PGgyIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC1jZW50ZXIgdGV4dC13aGl0ZSBteS00IHRleHQtc2hhZG93IGgxJz4iICsgaW1hZ2VUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9oMj4iOw0KICAgICAgfSovDQoNCiAgICAgIA0KDQogICAgICBzd2l0Y2gJKGltYWdlSGVhZGVyVHlwZVtyYW5kb21BcnJheUl0ZW1OdW1iZXJdKSB7DQoNCgkgICAgICBjYXNlICJSYW5kb21JbWFnZUhlYWRlcjQ1MCI6DQoJCSAgICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0nYmctYmxlbmQtLWJsdWUtaGFyZC1saWdodCBpbWFnZS1oZWFkZXItLWNvbGxlZ2VfX2NvbnRlbnQnPjxkaXYgY2xhc3M9J2NvbnRhaW5lci0xMDgwICc+PGgyIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC13aGl0ZSBteS00IHRleHQtc2hhZG93IGgxJz4iICsgaW1hZ2VUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9oMj4iOw0KCQkgICAgICANCiAgICAgICAgICBicmVhazsNCgkJDQoJICAgICAgY2FzZSAiUmFuZG9tSW1hZ2VIZWFkZXJXSDE0NTAiOg0KCQkgICAgICBub3dUZXh0ID0gIjxkaXYgY2xhc3M9J2ltYWdlLWhlYWRlci0tY29sbGVnZV9fY29udGVudCc+PGRpdiBjbGFzcz0nY29udGFpbmVyLTEwODAgJz48aDEgY2xhc3M9J3VwcGVyY2FzZSB0ZXh0LXdoaXRlIG15LTQgdGV4dC1zaGFkb3cgYm9yZGVyLTAgc29sb0gxJyA+IiArIGltYWdlVGV4dFtyYW5kb21BcnJheUl0ZW1OdW1iZXJdICsgIjwvaDE+IjsJICAgICAgDQogICAgICAgICAgYnJlYWs7DQoJICAgICAgY2FzZSAiUmFuZG9tT2ZmaWNlSW1hZ2VIZWFkZXI1NTAiOg0KCQkgICAgICBub3dUZXh0ID0gIjxkaXYgY2xhc3M9J2JnLWJsZW5kLS1ibHVlLWhhcmQtbGlnaHQgaW1hZ2UtaGVhZGVyLS1jb2xsZWdlX19jb250ZW50Jz48ZGl2IGNsYXNzPSdjb250YWluZXItMTIwMCc+PGgxIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC13aGl0ZSBib3JkZXItMCBteS00IHRleHQtc2hhZG93IHNvbG9IMSc+IiArIGltYWdlVGV4dFtyYW5kb21BcnJheUl0ZW1OdW1iZXJdICsgIjwvaDE+IjsNCiAgICAgICAgICBicmVhazsNCgkJICANCgkJICBjYXNlICJNYWpvcnNJbWFnZUhlYWRlcjU1MCI6DQoJCSAgICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0naW1hZ2Utb3ZlcmxheS0tY2FwdGlvbic+PGgxIGNsYXNzPSdzb2xvSDEnPiIgKyBpbWFnZVRleHRbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXSArICI8L2gxPiI7DQogICAgICAgICAgYnJlYWs7DQoJCSAgDQoJICAgICAgZGVmYXVsdDogDQoJCSAgICAgIG5vd1RleHQgPSAiPGRpdiBjbGFzcz0nYmctYmxlbmQtLWJsdWUtaGFyZC1saWdodCBpbWFnZS1oZWFkZXItLWNvbGxlZ2VfX2NvbnRlbnQnPjxkaXYgY2xhc3M9J2NvbnRhaW5lci0xMDgwICc+PGgyIGNsYXNzPSd1cHBlcmNhc2UgdGV4dC1jZW50ZXIgdGV4dC13aGl0ZSBteS00IHRleHQtc2hhZG93IGgxJz4iICsgaW1hZ2VUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9oMj4iOw0KCQkgICAgICBicmVhazsNCiAgICAgIH0JDQoNCg0KCSAgaWYgKGltYWdlVVJMW3JhbmRvbUFycmF5SXRlbU51bWJlcl0gIT0gImltYWdlSGVhZGVyTGlua1VSTCIpew0KCQkJICBub3dMaW5rID0gIjxhIGNsYXNzPSd0ZXh0LXdoaXRlIHVwcGVyY2FzZScgaHJlZj0nIiArIGltYWdlVVJMW3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiJyB0YXJnZXQgPSAnX2JsYW5rJz4iICsgaW1hZ2VVUkxUZXh0W3JhbmRvbUFycmF5SXRlbU51bWJlcl0gKyAiPC9hPiI7DQoJCX0NCgkJICANCiAgICAgIGNhcmRUZXh0ID0gbm93VGV4dCArIG5vd0xpbmsgKyBjbG9zaW5nRGl2czsNCgkJICAkKCIjaGVyb0Z1bGxJbWFnZVRleHQiKS5odG1sKGNhcmRUZXh0KTsNCiAgICAgICQoIiNoZXJvRnVsbEltYWdlVGV4dCIpLnNob3coKTsNCgkJICBpZiAoaW1hZ2VIZWFkZXJUeXBlW3JhbmRvbUFycmF5SXRlbU51bWJlcl0gPT0gIlJhbmRvbUltYWdlSGVhZGVyNDUwIiB8fCBpbWFnZUhlYWRlclR5cGVbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXSA9PSAiUmFuZG9tSW1hZ2VIZWFkZXJXSDE0NTAiKXsNCgkJCSAgJCgiI2hlcm9GdWxsSW1hZ2VUZXh0IikucmVtb3ZlQ2xhc3MoImhlaWdodDU1MCIpOw0KCQkJICAkKCIjaGVyb0Z1bGxJbWFnZVRleHQiKS5hZGRDbGFzcygiaGVpZ2h0NDUwIik7DQogICAgICAgICQoIiNoZXJvRnVsbEltYWdlIikucmVtb3ZlQ2xhc3MoImhlaWdodDU1MCIpOw0KICAgICAgICAkKCIjaGVyb0Z1bGxJbWFnZSIpLnJlbW92ZUNsYXNzKCJyb3VuZGVkLTAiKTsNCiAgICAgICAgJCgiI2hlcm9GdWxsSW1hZ2UiKS5yZW1vdmVDbGFzcygiY2FyZC1pbWciKTsNCgkJCSAgJCgiI2hlcm9GdWxsSW1hZ2UiKS5hZGRDbGFzcygiaGVpZ2h0NDUwIik7DQogICAgICAgICQoIiNoZXJvRnVsbEltYWdlIikuYWRkQ2xhc3MoIncxMDAiKTsNCiAgICAgICAgJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5yZW1vdmVDbGFzcygiY2FyZCIpOw0KICAgICAgICAkKCIjaGVyb0Z1bGxJbWFnZURpdiIpLnJlbW92ZUNsYXNzKCJteC1hdXRvIik7DQogICAgICAgICQoIiNoZXJvRnVsbEltYWdlRGl2IikucmVtb3ZlQ2xhc3MoImJvcmRlci0wIik7DQoJCSAgfQ0KCQkgIA0KCQkgIGlmIChpbWFnZUhlYWRlclR5cGVbcmFuZG9tQXJyYXlJdGVtTnVtYmVyXSA9PSAiTWFqb3JzSW1hZ2VIZWFkZXI1NTAiKXsNCgkJCSQoIiNoZXJvRnVsbEltYWdlIikucmVtb3ZlQ2xhc3MoImhlaWdodDU1MCIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2UiKS5yZW1vdmVDbGFzcygicm91bmRlZC0wIik7DQoJCQkkKCIjaGVyb0Z1bGxJbWFnZSIpLnJlbW92ZUNsYXNzKCJjYXJkLWltZyIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2UiKS5yZW1vdmVDbGFzcygiaW1hZ2UtaGVhZGVyLS1pbWFnZSIpOw0KCQkgICAgJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5yZW1vdmVDbGFzcygiY2FyZCIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5yZW1vdmVDbGFzcygibXgtYXV0byIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5yZW1vdmVDbGFzcygiYm9yZGVyLTAiKTsNCgkJCSQoIiNoZXJvRnVsbEltYWdlRGl2IikucmVtb3ZlQ2xhc3MoImNvbnRhaW5lci0xOTIwIik7DQoJCQkkKCIjaGVyb0Z1bGxJbWFnZURpdiIpLnJlbW92ZUNsYXNzKCJpbWFnZS1oZWFkZXItLWNvbGxlZ2UiKTsNCgkJCSQoIiNoZXJvRnVsbEltYWdlRGl2IikuYWRkQ2xhc3MoImNvbnRhaW5lci0xMDgwIik7DQoJCQkkKCIjaGVyb0Z1bGxJbWFnZURpdiIpLmFkZENsYXNzKCJtMC1iIik7DQoJCQkkKCIjaGVyb0Z1bGxJbWFnZURpdiIpLmFkZENsYXNzKCJNYWpvcnNJbWFnZUhlYWRlciIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2VEaXYiKS5hZGRDbGFzcygiaW1hZ2Utb3ZlcmxheSIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2VUZXh0IikucmVtb3ZlQ2xhc3MoImhlaWdodDU1MCIpOw0KCQkJJCgiI2hlcm9GdWxsSW1hZ2VUZXh0IikucmVtb3ZlQ2xhc3MoImJnLWdyYWRpZW50LS0yIik7DQoJCQkkKCIjaGVyb0Z1bGxJbWFnZVRleHQiKS5yZW1vdmVDbGFzcygiY2FyZC1pbWctb3ZlcmxheSAiKTsNCgkJCSQoIiNoZXJvRnVsbEltYWdlVGV4dCIpLnJlbW92ZUNsYXNzKCJ0ZXh0LXVwcGVyY2FzZSAiKTsNCgkJCSANCgkJICB9DQoNCg0KCSAgICAkKCdoMScpLmVhY2goZnVuY3Rpb24oKXsNCgkJCQ0KCQkJICBpZiAoJCh0aGlzKS5oYXNDbGFzcygnc29sb0gxJykpew0KCQkJICB9DQoJCQkgIGVsc2V7DQoJCQkJICAkKHRoaXMpLnJlbW92ZSgpOw0KCQkJICB9DQoJCQkNCg0KDQoJCQl9KTsNCg0KDQogICAgICB9KTs7PC9zY3JpcHQ+PGRpdiBpZD0iaGVyb0Z1bGxJbWFnZURpdiIgY2xhc3M9ImNvbnRhaW5lci0xOTIwIGNhcmQgcC0wIG14LWF1dG8gYm9yZGVyLTAgaW1hZ2UtaGVhZGVyLS1jb2xsZWdlIEltYWdlSGVhZGVyX1dQIj48ZmlndXJlPjxpbWcgY2xhc3M9ImNhcmQtaW1nIHJvdW5kZWQtMCBoZWlnaHQ1NTAgaW1hZ2UtaGVhZGVyLS1pbWFnZSIgaWQ9Imhlcm9GdWxsSW1hZ2UiIGxvYWRpbmc9ImxhenkiIC8+PC9maWd1cmU+PGRpdiBpZD0iaGVyb0Z1bGxJbWFnZVRleHQiIHN0eWxlPSJkaXNwbGF5OiBub25lOyIgY2xhc3M9InRleHQtdXBwZXJjYXNlIGNhcmQtaW1nLW92ZXJsYXkgYmctZ3JhZGllbnQtLTIgaGVpZ2h0NTUwIj4uPC9kaXY+PC9kaXY+PGRpdiBzdHlsZT0iZGlzcGxheTogbm9uZTsiPjxkaXYgY2xhc3M9Im5naW54aW1hZ2VjYWNoZSI+L1B1Ymxpc2hpbmdJbWFnZXMvbGF3X2hvbWVwYWdlX25ldzAyLmpwZzwvZGl2PjxkaXYgY2xhc3M9ImltYWdlSGVhZGVyVGV4dCI+RXhwZXJpZW5jZSBEPHNwYW4gY2xhc3M9InNtYWxsLWUiPmU8L3NwYW4+UGF1bCBMYXcuPC9kaXY+PGRpdiBjbGFzcz0iaW1hZ2VIZWFkZXJBbHRUZXh0Ij5MYXcgbGVjdHVyZSBpbiBhIGNsYXNzcm9vbTwvZGl2PjxkaXYgY2xhc3M9ImltYWdlSGVhZGVyTGlua1RleHQiPmltYWdlSGVhZGVyTGlua1RleHQ8L2Rpdj48ZGl2IGNsYXNzPSJpbWFnZUhlYWRlckxpbmtVUkwiPmltYWdlSGVhZGVyTGlua1VSTDwvZGl2PjxkaXYgY2xhc3M9ImltYWdlSGVhZGVyVHlwZSI+UmFuZG9tSW1hZ2VIZWFkZXI1NTA8L2Rpdj4NCmMNCg0KICA8L2Rpdj4eBE1vZGULKiVTeXN0ZW0uV2ViLlVJLldlYkNvbnRyb2xzLkxpdGVyYWxNb2RlAWQFJmdfN2YwZjNiMjZfNGY4ZV80MGVlXzlkODVfODM5ZTM4NjI1Yjg5Dw8WAh8DAgJkZAUmZ183ZThlYjA3OF8xMmZmXzRkZWVfYmFmZV85NzYwZDgxYzg0MmMPZBYCZg9kFgJmD2QWAmYPZBYEZg8WAh8AaGQCAQ8WAh8AaGQCHQ9kFgICAw9kFgICAg9kFgICAQ9kFgICAw8WAh8AaBYCZg9kFgQCAw9kFgYCAQ8WAh8AaGQCAw8WAh8AaGQCBQ8WAh8AaGQCBA8PFgIeCUFjY2Vzc0tleQUBL2RkAi8PZBYCAgEPDxYEHgtOYXZpZ2F0ZVVybAUBLx4HVG9vbFRpcAUOQ29sbGVnZSBvZiBMYXdkZAI9D2QWAgICD2QWBAIBDxYCHhNQcmV2aW91c0NvbnRyb2xNb2RlCymIAU1pY3Jvc29mdC5TaGFyZVBvaW50LldlYkNvbnRyb2xzLlNQQ29udHJvbE1vZGUsIE1pY3Jvc29mdC5TaGFyZVBvaW50LCBWZXJzaW9uPTE2LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTcxZTliY2UxMTFlOTQyOWMBZAIFD2QWAgIBEBYCHwkLKwUBZGQCSQ9kFgICAQ8WAh8JCysFAWQYAgVCY3RsMDAkY3RsNjMkZ183ZThlYjA3OF8xMmZmXzRkZWVfYmFmZV85NzYwZDgxYzg0MmMkY3RsMDAkTXVsdGlWaWV3Dw9kZmQFQ2N0bDAwJGN0bDYzJGdfMWZiZjkzMzNfNGNiOF80ZTVjX2IzNmJfMjZhNzFjZTM5ZGFhJGN0bDAwJE11bHRpVmlldzEPD2RmZPmnVFieh2RzUk0rqDJ1IbQqYlJP3hlrH9eXAAclhICn">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=rD8Yad78gJdtyGbtAKr2DZeSsHXToe98-yA4LY7xp-I_k8Vx8X63cQQx4GgYasWQyszsZ-DFWMSug_9YrBVR-2A9j18RfjH0MCkCQpzYLZA1&amp;t=637460765481343508" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = false;
+var g_wsaEnabled = false;
+
+var g_correlationId = '2b05c69f-062b-b0b7-0885-fc7c695829ad';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webAbsoluteUrl: "https:\u002f\u002flaw.depaul.edu", siteAbsoluteUrl: "https:\u002f\u002flaw.depaul.edu", serverRequestPath: "\u002fPages\u002fdefault.aspx", layoutsUrl: "_layouts\u002f15", webTitle: "College of Law", webTemplate: "53", tenantAppVersion: "0", isAppWeb: false, Has2019Era: true, webLogoUrl: "_layouts\u002f15\u002fimages\u002fsiteicon.png", webLanguage: 1033, currentLanguage: 1033, currentUICultureName: "en-US", currentCultureName: "en-US", clientServerTimeDelta: new Date("2021-05-08T22:42:54.3975306Z") - new Date(), updateFormDigestPageLoaded: new Date("2021-05-08T22:42:54.3975306Z"), siteClientTag: "5$$16.0.5095.1000", crossDomainPhotosEnabled:false, webUIVersion:15, webPermMasks:{High:16,Low:196673},pageListId:"{1cf32a13-d3d9-4bbf-9464-846db5bfc16d}",pageItemId:4, pagePersonalizationScope:1, alertsEnabled:false, customMarkupInCalculatedFieldDisabled: true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True', isSiteAdmin: false};var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="null";
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480215056,1880287568,1561350208,302071836,3212816,69472768,4194310,-2113396707,268502022,-872284160,1049232,-2147421952,65536,65536,2097472,917504,-2147474174,1372324107,67108882,0,0,-2147483648,2097152,0,0,32768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32768]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=j8B2JDHHSucDcweHtwlb5w%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002f', 23040000);if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+				<div class="aspNetHidden">
+
+					<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="524F18F7">
+					<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAOsV5iwu+qyPc5mOLVL11GKL9+DwffpzCin3asjUwxO12A25p74gS1qT0MMcoUDCOEldr0tm0f2Hmhht6+5aDxviz165YRDMzdzqLLLiCo+Ww==">
+				</div>
+        <script id="custom-secondary-banner">
+$(document).ready(function(){
+  $("#ga-global").parent().append("<div class='container-fluid text-center bg-secondary'><div class='container-1200'><div data-nosnippet='true' class='mb-0 mt-0 rounded-0 p-2 text-white'>The College of Law facilities are now open. Please review the College of Law's <a href='https://law.depaul.edu/student-resources/Documents/Return%20to%20Lewis%20Guide%20FINAL.pdf' class='text-white'><u>Guide to Returning to Campus</u></a> and follow all required health protocols prior to coming to campus.</div></div></div>");
+});  
+</script> 
+        
+        <noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
+        
+        <script type="text/javascript">//<![CDATA[ var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } };
+        //]]></script>
+        
+            <script type="text/javascript">
+            // var Sys = {};
+            // Sys.WebForms = {};
+            // Sys.WebForms.PageRequestManager = {};
+			// Sys.WebForms.PageRequestManager._initialize = function () { };
+			//	Sys.WebForms.PageRequestManager.getInstance = (function () {
+			//		Sys.WebForms.PageRequestManager.getInstance.get_isInAsyncPostBack = function() { return false };
+			//		Sys.WebForms.PageRequestManager.getInstance.add_beginRequest = function () { };
+			//		Sys.WebForms.PageRequestManager.getInstance.add_pageLoaded = function () { };
+			//		return Sys.WebForms.PageRequestManager.getInstance;
+			//	});
+            // var _spBodyOnLoadFunctionNames = [];
+            // var removeAllStatus = function () { };
+            // var WPSC = {};
+            // WPSC.Init = function () { };
+            // WPSC.WebPartPage = {};
+            // WPSC.WebPartPage.Parts = {};
+            // WPSC.WebPartPage.Parts.Register = function () { };
+            </script>
+                
+                
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+        <span id="DeltaDelegateControls">
+            
+            
+        </span>
+        <div id="TurnOnAccessibility" style="" class="s4-notdlg noindex">
+            <a id="linkTurnOnAcc" data-accessibility-nocheck="true" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+                Turn on more accessible mode
+            </a>
+        </div>
+        <div id="TurnOffAccessibility" style="display: none" class="s4-notdlg noindex">
+            <a id="linkTurnOffAcc" data-accessibility-nocheck="true" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+                Turn off more accessible mode
+            </a>
+        </div>
+        <div class="s4-notdlg s4-skipribbonshortcut noindex">
+            <a href="javascript:;" data-accessibility-nocheck="true" onclick="document.getElementById('startNavigation').focus();" class="ms-SkiptoNavigation" accesskey="Y">
+                Skip Ribbon Commands
+            </a>
+        </div>
+        <div class="s4-notdlg noindex">
+            <a href="javascript:;" data-accessibility-nocheck="true" onclick="document.getElementById('mainContent').focus();" class="ms-SkiptoMainContent" accesskey="X">
+                Skip to main content
+            </a>
+        </div>
+        <div id="TurnOffAnimation" style="" class="s4-notdlg noindex">
+            <a id="linkTurnOffAnimation" data-accessibility-nocheck="true" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                Turn off Animations
+            </a>
+        </div>
+        <div id="TurnOnAnimation" style="display: none;" class="s4-notdlg noindex">
+            <a id="linkTurnOnAnimation" data-accessibility-nocheck="true" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                Turn on Animations
+            </a>
+        </div>
+        <a id="HiddenAnchor" href="javascript:;" style="display: none;"></a>
+        <div id="ms-hcTest">
+        </div>
+        <!-- BEGIN RIBBON -->
+        
+        <div id="s4-workspace" class="ms-core-overlay">
+            <div id="s4-bodyContainer">
+
+                <div class="container-fluid collapse" id="depaulShortcuts">
+                    <div class="row dpu-shortcuts-drawer">
+                        <div class="col-sm-3 col-xs-12"><p>Academic Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://academics.depaul.edu/calendar/Pages/default.aspx">Academic Calendar</a></li><li><a data-area="shortcuts" href="https://resources.depaul.edu/student-success/Pages/default.aspx">Academic Success</a></li><li><a data-area="shortcuts" href="https://depaul.starfishsolutions.com/starfish-ops">BlueStar</a></li><li><a data-area="shortcuts" href="https://campusconnect.depaul.edu/">Campus Connect</a></li><li><a data-area="shortcuts" href="https://offices.depaul.edu/depaul-central/Pages/default.aspx">DePaul Central</a></li><li><a data-area="shortcuts" href="https://d2l.depaul.edu/">Desire2Learn (D2L)</a></li><li><a data-area="shortcuts" href="https://outlook.depaul.edu/">Faculty/Staff Email</a></li><li><a data-area="shortcuts" href="https://mail.depaul.edu/">Student Email</a></li><li><a data-area="shortcuts" href="https://catalog.depaul.edu/">University Catalog</a></li><li><a data-area="shortcuts" href="https://library.depaul.edu/Pages/default.aspx">Library</a></li></ul></div><div class="col-sm-3 col-xs-12"><p>Campus Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://offices.depaul.edu/public-safety/Pages/default.aspx">Campus Security</a></li><li><a data-area="shortcuts" href="https://depaul.bncollege.com/">Bookstore</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/campus-maps/Pages/default.aspx">Campus Maps</a></li><li><a data-area="shortcuts" href="https://events.depaul.edu/">Events</a></li></ul></div><div class="col-sm-3 col-xs-12"><p>University Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://myhr.depaul.edu">Directory</a></li><li><a data-area="shortcuts" href="http://www.depaulbluedemons.com/">Athletics</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/employment-at-depaul.aspx">Employment</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/utilities/Pages/a-z-websites.aspx">Sites A-Z</a></li></ul></div><div class="col-sm-3 col-xs-12"><p>Information For</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://alumni.depaul.edu/">Alumni &amp; Friends</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/students.aspx">Current Students</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/faculty.aspx">Faculty &amp; Staff</a></li></ul></div>
+                    </div>
+                </div>
+                <div class="container-fluid masthead">
+                    <div class="row">
+                        <div class="col-7 mt-xs-1 mt-sm-4">
+                            <a class="logo-long d-none d-md-block" href="http://www.depaul.edu/" rel="noopener" target="_blank" data-area="masthead" style="float: left;">DePaul University</a><a class="logo-short d-xs-block d-md-none" href="https://www.depaul.edu/Pages/default.aspx" rel="noopener" target="_blank" data-area="masthead" style="float: left;">DePaul University</a><a class="d-none d-md-block site-title-long" href="/Pages/default.aspx" data-area="masthead">College of Law</a><a class="d-xs-block d-md-none site-title-short" href="/Pages/default.aspx" data-area="masthead">Law</a>
+                        </div>
+                        <div class="col-5 hide-sm">
+                            <div class="row">
+                                <div class="col-5">
+                                    <div class="pt-2 dpu-shortcuts float-right d-none d-md-block" tabindex="0">
+                                        <a data-area="masthead" data-toggle="collapse" class="dpu-shortcuts nav-link" data-target="#depaulShortcuts" tabindex="0">DePaul Shortcuts</a>
+                                    </div>
+                                </div>
+                                <div class="col-7">
+                                    <div id="AjaxDelta1" class="pt-2 d-none d-md-block">
+                                        <input aria-label="Search Site" type="text" class="form-control" id="search_input" onkeypress="javascript:SiteSearch.KeyPress('search_input',event);">
+                                        <a href="javascript:SiteSearch.Search('search_input');"><i style="position: absolute; right: 18px; top: 15px; z-index: 1;" class="fa fa-search"></i></a>
+                                    </div>
+                                </div>
+                            </div>                           
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-9 d-md-none" style="padding: 0;">
+                            <input class="mt-2 mb-2 form-control slide-search-box" aria-label="Search Site" type="text" id="search_slide_input" onkeypress="javascript:SiteSearch.KeyPress('search_slide_input',event);">
+                            <a href="javascript:SiteSearch.Search('search_slide_input');"><i class="fa fa-search slide-search-icon" style="position: absolute; right: 12px; top: 18px;"></i></a>
+                        </div>
+                        <div class="col-3" style="padding: 0;">
+                            <a class="btn btn-secondary d-xs-block d-md-none float-left slide-button float-right hamburger-toggle" data-toggle="slide-collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" data-ol-has-click-handler="">
+                                <i class="fas fa-bars"></i>
+                            </a>
+                        </div>
+                        <div class="col-12">
+                            <div class="collapse navbar-collapse " id="navbarCollapse" style="display: none;">
+                                <div class="slide-content">
+                                    <div id="localmenu">
+                                        <h4 class="pl-2"><a href="/Pages/default.aspx">College of Law</a></h4>
+
+<ul class="list-unstyled nav-secondary nopadding-top"><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/about/Pages/default.aspx">About</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/academics/Pages/default.aspx">Academics</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/admission/Pages/default.aspx">Admission &amp; Aid</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/faculty-and-staff/Pages/default.aspx">Faculty &amp; Staff</a></li>
+<li style="display: none;">Recent</li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/alumni/Pages/default.aspx">Alumni</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/career-services/Pages/default.aspx">Career Services</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/library/Pages/default.aspx">Law Library</a></li><li class="nav-item"><a class="nav-link" data-area="secondary-nav" href="/student-resources/Pages/default.aspx">Student Resources</a></li></ul>                                
+                                    </div>
+                                    <div id="sitemenu">                                        
+                                        
+<ul class="navbar-nav mr-auto"><li class="nav-item"><a data-area="global-nav" href="/about/Pages/default.aspx">About</a></li><li class="nav-item"><a data-area="global-nav" href="/academics/Pages/default.aspx">Academics</a></li><li class="nav-item"><a data-area="global-nav" href="/admission/Pages/default.aspx">Admission &amp; Aid</a></li><li class="nav-item"><a data-area="global-nav" href="/faculty-and-staff/Pages/default.aspx">Faculty &amp; Staff</a></li><li class="nav-item"><a data-area="global-nav" href="/alumni/Pages/default.aspx">Alumni</a></li><li class="nav-item"><a data-area="global-nav" href="/career-services/Pages/default.aspx">Career Services</a></li><li class="nav-item"><a data-area="global-nav" href="/library/Pages/default.aspx">Law Library</a></li><li class="nav-item"><a data-area="global-nav" href="/student-resources/Pages/default.aspx">Student Resources</a></li></ul>
+                                    </div>
+                                    <a role="tab" href="#dpushortcuts" data-toggle="collapse">DePaul Shortcuts</a>
+                                    <div role="tabpanel" class="collapse" id="dpushortcuts">
+                                        <p>Academic Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://academics.depaul.edu/calendar/Pages/default.aspx">Academic Calendar</a></li><li><a data-area="shortcuts" href="https://resources.depaul.edu/student-success/Pages/default.aspx">Academic Success</a></li><li><a data-area="shortcuts" href="https://depaul.starfishsolutions.com/starfish-ops">BlueStar</a></li><li><a data-area="shortcuts" href="https://campusconnect.depaul.edu/">Campus Connect</a></li><li><a data-area="shortcuts" href="https://offices.depaul.edu/depaul-central/Pages/default.aspx">DePaul Central</a></li><li><a data-area="shortcuts" href="https://d2l.depaul.edu/">Desire2Learn (D2L)</a></li><li><a data-area="shortcuts" href="https://outlook.depaul.edu/">Faculty/Staff Email</a></li><li><a data-area="shortcuts" href="https://mail.depaul.edu/">Student Email</a></li><li><a data-area="shortcuts" href="https://catalog.depaul.edu/">University Catalog</a></li><li><a data-area="shortcuts" href="https://library.depaul.edu/Pages/default.aspx">Library</a></li></ul><p>Campus Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://offices.depaul.edu/public-safety/Pages/default.aspx">Campus Security</a></li><li><a data-area="shortcuts" href="https://depaul.bncollege.com/">Bookstore</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/campus-maps/Pages/default.aspx">Campus Maps</a></li><li><a data-area="shortcuts" href="https://events.depaul.edu/">Events</a></li></ul><p>University Resources</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://myhr.depaul.edu">Directory</a></li><li><a data-area="shortcuts" href="http://www.depaulbluedemons.com/">Athletics</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/employment-at-depaul.aspx">Employment</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/utilities/Pages/a-z-websites.aspx">Sites A-Z</a></li></ul><p>Information For</p><ul class="list-unstyled"><li><a data-area="shortcuts" href="https://alumni.depaul.edu/">Alumni &amp; Friends</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/students.aspx">Current Students</a></li><li><a data-area="shortcuts" href="https://www.depaul.edu/Pages/faculty.aspx">Faculty &amp; Staff</a></li></ul>
+                                    </div>        
+                                    <div id="dpucta">
+                                        <ul class="no-bullets" id="nav-cta"><li id="nav-apply"><a class="cta-apply" href="http://law.depaul.edu/admission/Pages/apply.aspx" data-area="secondary-nav">Apply Online</a></li>
+<li id="nav-info"><a class="cta-apply" href="http://go.depaul.edu/requestinfo" data-area="secondary-nav">Request Info</a></li>
+<li id="nav-visit"><a class="cta-apply" href="http://go.depaul.edu/visit" data-area="secondary-nav">Visit Campus</a></li></ul>
+
+                                    </div> 
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="width: 100%; position: relative;">
+                    <nav id="ga-global" role="navigation">
+                        
+<ul class="accessible-megamenu nav-primary d-none d-md-block js-accessible-megamenu" id="accessible-megamenu-1620513775381-1" data-ol-has-click-handler=""><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/about/Pages/default.aspx" id="accessible-megamenu-1620513775385-2" role="button" aria-controls="accessible-megamenu-1620513775385-3" aria-expanded="false" tabindex="0">About</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775385-3" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775385-2"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/about/Pages/deans-message.aspx">Dean's Welcome</a></li><li><a data-area="global-nav" href="/about/diversity-equity-inclusion/Pages/default.aspx">Diversity, Equity &amp; Inclusion</a></li><li><a data-area="global-nav" href="/about/centers-and-institutes/Pages/default.aspx">Centers &amp; Institutes</a></li><li><a data-area="global-nav" href="/about/news/Pages/default.aspx">News</a></li><li><a data-area="global-nav" href="/about/events/Pages/default.aspx">Events &amp; CLE</a></li><li><a data-area="global-nav" href="/about/Pages/aba-required-disclosures.aspx">Consumer Information (ABA Required Disclosures)</a></li><li><a data-area="global-nav" href="/about/Pages/rankings.aspx">College of Law Recognition</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/academics/Pages/default.aspx" id="accessible-megamenu-1620513775386-4" role="button" aria-controls="accessible-megamenu-1620513775386-5" aria-expanded="false" tabindex="0">Academics</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775386-5" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775386-4"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/academics/jd-programs/Pages/default.aspx">JD</a></li><li><a data-area="global-nav" href="/academics/joint-degrees/Pages/default.aspx">Joint Degree Programs</a></li><li><a data-area="global-nav" href="/academics/llm-programs/Pages/default.aspx">LLM Programs</a></li><li><a data-area="global-nav" href="/academics/mj-program/Pages/default.aspx">MJ Program</a></li><li><a data-area="global-nav" href="/academics/certification-and-non-degree-programs/Pages/default.aspx">Certification &amp; Non-Degree Programs</a></li><li><a data-area="global-nav" href="/academics/course-information/Pages/default.aspx">Course Information</a></li><li><a data-area="global-nav" href="/academics/experiential-learning/Pages/default.aspx">Experiential Learning</a></li><li><a data-area="global-nav" href="/academics/study-abroad/Pages/default.aspx">Study Abroad</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/admission/Pages/default.aspx" id="accessible-megamenu-1620513775388-6" role="button" aria-controls="accessible-megamenu-1620513775388-7" aria-expanded="false" tabindex="0">Admission &amp; Aid</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775388-7" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775388-6"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/admission/jd-admission/Pages/default.aspx">JD Admission</a></li><li><a data-area="global-nav" href="/admission/llm-admission/Pages/default.aspx">LLM Admission</a></li><li><a data-area="global-nav" href="/admission/mj-admission/Pages/default.aspx">MJ Admission</a></li><li><a data-area="global-nav" href="/admission/tuition-scholarships-aid/Pages/default.aspx">Tuition, Scholarships &amp; Aid</a></li><li><a data-area="global-nav" href="/admission/admitted-students/Pages/default.aspx">Admitted Students</a></li><li><a data-area="global-nav" href="/admission/visit/Pages/default.aspx">Visit</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/faculty-and-staff/Pages/default.aspx" id="accessible-megamenu-1620513775390-8" role="button" aria-controls="accessible-megamenu-1620513775390-9" aria-expanded="false" tabindex="0">Faculty &amp; Staff</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775390-9" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775390-8"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/faculty-and-staff/faculty-a-z/Pages/default.aspx">Full-time Faculty</a></li><li><a data-area="global-nav" href="/faculty-and-staff/adjunct/Pages/default.aspx">Adjunct Faculty</a></li><li><a data-area="global-nav" href="/faculty-and-staff/Pages/clinical.aspx">Clinical Faculty</a></li><li><a data-area="global-nav" href="/faculty-and-staff/Pages/legal-writing-faculty.aspx">Legal Writing Faculty</a></li><li><a data-area="global-nav" href="/faculty-and-staff/Pages/emeritus-faculty.aspx">Emeritus Faculty</a></li><li><a data-area="global-nav" href="/faculty-and-staff/Pages/visiting-faculty.aspx">Visiting Faculty &amp; Fellows</a></li><li><a data-area="global-nav" href="/faculty-and-staff/administration/Pages/default.aspx">Administration</a></li><li><a data-area="global-nav" href="/faculty-and-staff/Pages/staff.aspx">Staff Directory</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/alumni/Pages/default.aspx" id="accessible-megamenu-1620513775391-10" role="button" aria-controls="accessible-megamenu-1620513775391-11" aria-expanded="false" tabindex="0">Alumni</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775391-11" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775391-10"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/alumni/stay-connected/Pages/default.aspx">Stay Connected</a></li><li><a data-area="global-nav" href="/alumni/giving/Pages/default.aspx">Giving</a></li><li><a data-area="global-nav" href="/alumni/events/Pages/default.aspx">Events</a></li><li><a data-area="global-nav" href="/alumni/alumni-news/Pages/default.aspx">News</a></li><li><a data-area="global-nav" href="/alumni/services/Pages/default.aspx">Services</a></li><li><a data-area="global-nav" href="/alumni/council-and-boards/Pages/default.aspx">Council &amp; Boards</a></li><li><a data-area="global-nav" href="/alumni/Pages/contact-us.aspx">Contact Us</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/career-services/Pages/default.aspx" id="accessible-megamenu-1620513775392-12" role="button" aria-controls="accessible-megamenu-1620513775392-13" aria-expanded="false" tabindex="0">Career Services</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775392-13" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775392-12"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/career-services/students/Pages/default.aspx">Students</a></li><li><a data-area="global-nav" href="/career-services/alumni/Pages/default.aspx">Alumni</a></li><li><a data-area="global-nav" href="/career-services/employers/Pages/default.aspx">Employers</a></li><li><a data-area="global-nav" href="/career-services/employment-data/Pages/default.aspx">Employment Data</a></li><li><a data-area="global-nav" href="/career-services/contact/Pages/default.aspx">Contact Us</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/library/Pages/default.aspx" id="accessible-megamenu-1620513775393-14" role="button" aria-controls="accessible-megamenu-1620513775393-15" aria-expanded="false" tabindex="0">Law Library</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775393-15" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775393-14"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/library/about/Pages/default.aspx">About</a></li><li><a data-area="global-nav" href="/library/services/Pages/default.aspx">Services</a></li><li><a data-area="global-nav" href="/library/research/Pages/default.aspx">Research</a></li><li><a data-area="global-nav" href="/library/technology-services/Pages/default.aspx">Technology</a></li><li><a data-area="global-nav" href="/library/hours/Pages/default.aspx">Hours</a></li></ul></div></li><li class="accessible-megamenu-top-nav-item"><a data-area="global-nav" href="/student-resources/Pages/default.aspx" id="accessible-megamenu-1620513775395-16" role="button" aria-controls="accessible-megamenu-1620513775395-17" aria-expanded="false" tabindex="0">Student Resources</a>
+<div class="accessible-megamenu-panel" id="accessible-megamenu-1620513775395-17" role="region" aria-expanded="false" aria-hidden="true" aria-labelledby="accessible-megamenu-1620513775395-16"><ul class="accessible-megamenu-panel-group"><li><a data-area="global-nav" href="/student-resources/Pages/COVID-19-Resources.aspx">COVID-19-Resources </a></li><li><a data-area="global-nav" href="/student-resources/student-affairs-registrar/Pages/default.aspx">Student Affairs/Registrar</a></li><li><a data-area="global-nav" href="/student-resources/bar-passage-program/Pages/default.aspx">Bar Passage Program</a></li><li><a data-area="global-nav" href="/student-resources/academic-advising/Pages/default.aspx">Academic Advising</a></li><li><a data-area="global-nav" href="/student-resources/student-activities/Pages/default.aspx">Student Activities</a></li><li><a data-area="global-nav" href="/student-resources/Pages/university-resources.aspx">University Resources</a></li><li><a data-area="global-nav" href="/student-resources/wellness/Pages/default.aspx">Wellness</a></li></ul></div></li></ul>
+                    </nav>
+                <div class="container-fluid text-center bg-secondary"><div class="container-1200"><div data-nosnippet="true" class="mb-0 mt-0 rounded-0 p-2 text-white">The College of Law facilities are now open. Please review the College of Law's <a href="https://law.depaul.edu/student-resources/Documents/Return%20to%20Lewis%20Guide%20FINAL.pdf" class="text-white"><u>Guide to Returning to Campus</u></a> and follow all required health protocols prior to coming to campus.</div></div></div></div>                
+                <nav class="secondary-menu" style="display: none;"></nav>
+
+                <div style="display: none;">
+                    <div id="s4-titlerow" class="ms-dialogHidden s4-titlerowhidetitle">
+                        <div id="titleAreaBox" class="ms-noList ms-table ms-core-tableNoSpace">
+                            <div id="titleAreaRow" class="ms-tableRow">
+                                <div id="siteIcon" class="ms-tableCell ms-verticalAlignTop">
+                                    <div id="DeltaSiteLogo">
+	
+                                        <a id="ctl00_onetidProjectPropertyTitleGraphic" title="College of Law" class="ms-siteicon-a" href="/"></a>
+                                    
+</div>
+                                </div>
+
+                                <div class="ms-breadcrumb-box ms-tableCell ms-verticalAlignTop">
+                                    <div class="ms-breadcrumb-top">
+                                        <div class="ms-breadcrumb-dropdownBox" style="display: none;">
+                                            <span id="DeltaBreadcrumbDropdown">
+                                                
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="ms-tableCell ms-verticalAlignTop">
+                                    <div id="DeltaPlaceHolderGroupActionsArea" class="ms-floatRight ms-noWrap">
+	
+                                        
+                                    
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-fluid m-0">                     
+                    <div class="row p-0" id="contentRow">                                                                  
+                        
+                        <div id="ga-maincontent" class="col p-0 mt-0" aria-live="polite" aria-relevant="all" role="main">
+                            <div id="DeltaPlaceHolderMain">
+	
+                                <a id="mainContent" name="mainContent" tabindex="-1"></a>
+                                
+    
+
+        <div id="g_TopBannerZsize5of5" class="vertical-webpartzone">
+
+				<div class="webpart ImageHeader_WP" webpartid="g_1fbf9333_4cb8_4e5c_b36b_26a71ce39daa">
+					<div id="ctl00_ctl63_g_1fbf9333_4cb8_4e5c_b36b_26a71ce39daa">
+						
+
+        <script type="text/javascript" language="javascript">
+            $(document).ready(function () {
+                var groupCount = 1;
+                var wpID =  '1fbf9333-4cb8-4e5c-b36b-26a71ce39daa';
+                $("div[webpartid = " + wpID + "],div[webpartid2 = " + wpID + "]").each(function () {
+                    wpID = "g_" + wpID.replace(/\-/g, "_");
+                    $currentWebPart = $(this);
+
+                });
+            });
+        </script>
+
+    
+
+<script type="text/javascript" language="javascript"> 
+
+function fillArray(theArray, className){
+
+    var count = 0;
+		//console.log("class0: " + className);
+		$(className).each(function() {
+      //console.log($(this).text());
+      //console.log($(this).html());
+      //console.log($(this).val());
+			theArray[count] = $(this).html();
+      
+      if( className == '.nginximagecache'){
+        //console.log("class: " +  $(this).html());
+        updateNginxCacheValue($(this));
+        //console.log("hi");
+      }
+			count++;
+		});
+
+}
+
+function updateNginxCacheValue(thehtml){
+    //// DO THIS PREPEND PROTOCOL & HOSTNAME TO THE IMAGE 
+    var prePend = "";
+    var pathname = document.location.pathname;
+    var firstIndexOf = 0;
+    var secondIndexOf = 0;
+
+
+
+    prePend = document.location.origin;
+    //console.log("the html: " + thehtml.html());
+    //console.log(document.location.pathname);
+    thehtml.html(prePend + thehtml.html());
+}
+
+
+
+jQuery(document).ready(function ($){
+	
+	    var imageList = [];	
+	    var imageText = [];
+      var imageAltText = [];
+	    var imageURL = [];
+	    var imageURLText = [];
+		  var imageHeaderType = [];
+      var imageTemplateName = [];
+      var siteProtocol = window.location.protocol;
+      var siteHost = window.location.hostname;
+
+		
+	    var randomArrayItemNumber = 0;
+
+	    var nowImage = "";
+	    var nowText = "";
+      var nowAltText = "";
+	    var nowLink = "";
+		  var closingDivs = "</div></div>";
+      var cardText = "";
+      var templateName = "";
+	
+	    fillArray(imageList, ".nginximagecache");
+	    fillArray(imageText, ".imageHeaderText");
+      fillArray(imageAltText, ".imageHeaderAltText");
+	    fillArray(imageURLText, ".imageHeaderLinkText");	
+	    fillArray(imageURL, ".imageHeaderLinkURL");
+		  fillArray(imageHeaderType, ".imageHeaderType");
+      fillArray(imageTemplateName, ".imageTemplateName");
+      
+	    randomArrayItemNumber = Math.floor(Math.random() * imageList.length);
+	    
+	    nowImage = imageList[randomArrayItemNumber];
+      nowAltText = imageAltText[randomArrayItemNumber];
+	    $("#heroFullImage").attr("src", nowImage);
+      $("#heroFullImage").attr("alt", nowAltText);
+	  $("#heroFullImageDiv").addClass(imageTemplateName[randomArrayItemNumber]);
+	      
+      /* if (imageHeaderType[randomArrayItemNumber] == "RandomImageHeader450" ){
+        nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1080 '><h2 class='uppercase text-white my-4 text-shadow h1'>" + imageText[randomArrayItemNumber] + "</h2>";
+      } else if(imageHeaderType[randomArrayItemNumber] == "RandomImageHeaderWH1450" ){
+		    nowText = "<div class='image-header--college__content'><div class='container-1080 '><h1 class='uppercase text-white my-4 text-shadow border-0 soloH1' >" + imageText[randomArrayItemNumber] + "</h1>"
+	    } else if(imageHeaderType[randomArrayItemNumber] == "RandomOfficeImageHeader550" ){
+		    nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1200'><h1 class='uppercase text-white border-0 my-4 text-shadow soloH1'>" + imageText[randomArrayItemNumber] + "</h1>"
+	    } else {
+	      nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1080 '><h2 class='uppercase text-center text-white my-4 text-shadow h1'>" + imageText[randomArrayItemNumber] + "</h2>";
+      }*/
+
+      
+
+      switch	(imageHeaderType[randomArrayItemNumber]) {
+
+	      case "RandomImageHeader450":
+		      nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1080 '><h2 class='uppercase text-white my-4 text-shadow h1'>" + imageText[randomArrayItemNumber] + "</h2>";
+		      
+          break;
+		
+	      case "RandomImageHeaderWH1450":
+		      nowText = "<div class='image-header--college__content'><div class='container-1080 '><h1 class='uppercase text-white my-4 text-shadow border-0 soloH1' >" + imageText[randomArrayItemNumber] + "</h1>";	      
+          break;
+	      case "RandomOfficeImageHeader550":
+		      nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1200'><h1 class='uppercase text-white border-0 my-4 text-shadow soloH1'>" + imageText[randomArrayItemNumber] + "</h1>";
+          break;
+		  
+		  case "MajorsImageHeader550":
+		      nowText = "<div class='image-overlay--caption'><h1 class='soloH1'>" + imageText[randomArrayItemNumber] + "</h1>";
+          break;
+		  
+	      default: 
+		      nowText = "<div class='bg-blend--blue-hard-light image-header--college__content'><div class='container-1080 '><h2 class='uppercase text-center text-white my-4 text-shadow h1'>" + imageText[randomArrayItemNumber] + "</h2>";
+		      break;
+      }	
+
+
+	  if (imageURL[randomArrayItemNumber] != "imageHeaderLinkURL"){
+			  nowLink = "<a class='text-white uppercase' href='" + imageURL[randomArrayItemNumber] + "' target = '_blank'>" + imageURLText[randomArrayItemNumber] + "</a>";
+		}
+		  
+      cardText = nowText + nowLink + closingDivs;
+		  $("#heroFullImageText").html(cardText);
+      $("#heroFullImageText").show();
+		  if (imageHeaderType[randomArrayItemNumber] == "RandomImageHeader450" || imageHeaderType[randomArrayItemNumber] == "RandomImageHeaderWH1450"){
+			  $("#heroFullImageText").removeClass("height550");
+			  $("#heroFullImageText").addClass("height450");
+        $("#heroFullImage").removeClass("height550");
+        $("#heroFullImage").removeClass("rounded-0");
+        $("#heroFullImage").removeClass("card-img");
+			  $("#heroFullImage").addClass("height450");
+        $("#heroFullImage").addClass("w100");
+        $("#heroFullImageDiv").removeClass("card");
+        $("#heroFullImageDiv").removeClass("mx-auto");
+        $("#heroFullImageDiv").removeClass("border-0");
+		  }
+		  
+		  if (imageHeaderType[randomArrayItemNumber] == "MajorsImageHeader550"){
+			$("#heroFullImage").removeClass("height550");
+			$("#heroFullImage").removeClass("rounded-0");
+			$("#heroFullImage").removeClass("card-img");
+			$("#heroFullImage").removeClass("image-header--image");
+		    $("#heroFullImageDiv").removeClass("card");
+			$("#heroFullImageDiv").removeClass("mx-auto");
+			$("#heroFullImageDiv").removeClass("border-0");
+			$("#heroFullImageDiv").removeClass("container-1920");
+			$("#heroFullImageDiv").removeClass("image-header--college");
+			$("#heroFullImageDiv").addClass("container-1080");
+			$("#heroFullImageDiv").addClass("m0-b");
+			$("#heroFullImageDiv").addClass("MajorsImageHeader");
+			$("#heroFullImageDiv").addClass("image-overlay");
+			$("#heroFullImageText").removeClass("height550");
+			$("#heroFullImageText").removeClass("bg-gradient--2");
+			$("#heroFullImageText").removeClass("card-img-overlay ");
+			$("#heroFullImageText").removeClass("text-uppercase ");
+			 
+		  }
+
+
+	    $('h1').each(function(){
+			
+			  if ($(this).hasClass('soloH1')){
+			  }
+			  else{
+				  $(this).remove();
+			  }
+			
+
+
+			});
+
+
+      });;</script><div id="heroFullImageDiv" class="container-1920 card p-0 mx-auto border-0 image-header--college ImageHeader_WP"><figure><img class="card-img rounded-0 height550 image-header--image" id="heroFullImage" loading="lazy" src="/PublishingImages/law_homepage_new02.jpg" alt="Law lecture in a classroom"></figure><div id="heroFullImageText" style="" class="text-uppercase card-img-overlay bg-gradient--2 height550"><div class="bg-blend--blue-hard-light image-header--college__content"><div class="container-1080 "><h2 class="uppercase text-center text-white my-4 text-shadow h1">Experience D<span class="small-e">e</span>Paul Law.</h2></div></div></div></div><div style="display: none;"><div class="nginximagecache">https://law.depaul.edu/PublishingImages/law_homepage_new02.jpg</div><div class="imageHeaderText">Experience D<span class="small-e">e</span>Paul Law.</div><div class="imageHeaderAltText">Law lecture in a classroom</div><div class="imageHeaderLinkText">imageHeaderLinkText</div><div class="imageHeaderLinkURL">imageHeaderLinkURL</div><div class="imageHeaderType">RandomImageHeader550</div>
+c
+
+  </div>
+					</div>
+				</div>
+				</div>
+					
+  
+        <div id="ctl00_PlaceHolderMain_EditModePanel1">
+						
+        <div style="display:none;" class="layout_constrained-landing-page"></div>
+        <div id="ctl00_PlaceHolderMain_EditModePanel1_ctl00_label" style="display:none">Main Content</div><div id="ctl00_PlaceHolderMain_EditModePanel1_ctl00__ControlWrapper_DURichHTMLField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_EditModePanel1_ctl00_label"><div class="container-1080 p0-a">
+   <h2 class="text-green text-center m30-t">DePaul University College of Law is connected equally to the city of Chicago and the larger world, and it is committed to developing legal professionals who understand their place in it.<br></h2>
+   <div class="row m20-b m0-r m0-l"> 
+      <div class="col-md-6 col-sm-12 p0-a bg-cover pos-relative min-height-300" data-bgimg="/PublishingImages/law_homepage_JD.jpg" style="background-image: url(" https:="" law.depaul.edu="" pages="" default.aspx");"=""> 
+         <div class="triangle-bl border-b-blue--light hide-mobile" style="border-bottom-width: 470px; border-bottom-color: rgb(228, 245, 255); border-left-width: 100px;"></div> &nbsp;</div> 
+      <div class="col-md-6 col-sm-12 bg-blue--light p45-a"> 
+         <h3 class="text-green m0-t">Juris Doctor (JD) Program</h3> 
+         <p class="text-blue">The impact of DePaul College of Law extends beyond the accomplishments of its faculty and through its programs of excellence. Choose from day and evening programs and prepare for success as a lawyer with a blend of theoretical and practical, as well as academic and experiential.</p> 
+         <a class="cta-college cta-blue--ghost" href="/academics/jd-programs/Pages/default.aspx">Learn More</a> </div> 
+   </div>
+   <div class="row"> 
+      <div class="col-md-6 col-sm-12 m20-b"> 
+         <div class="bg-blue--light p30-a"> 
+            <h3 class="text-green m0-t">Master of Laws (LLM) Programs</h3> 
+            <p class="text-blue">Graduates of U.S. and non-U.S. law schools choose from LLM programs in health law, intellectual property law, international law and taxation.  Graduates of non-U.S. law schools also can choose the LLM in U.S. legal studies to gain a working understanding of the U.S. legal system.</p> 
+            <a class="cta-college cta-blue--ghost" href="/academics/llm-programs/Pages/default.aspx">Learn More</a> </div> 
+      </div> 
+      <div class="col-md-6 col-sm-12 m20-b"> 
+         <div class="bg-blue--light p30-a"> 
+            <h3 class="text-green m0-t">Master of Jurisprudence (MJ) Program</h3> 
+            <p class="text-blue">Non-lawyers choose from more than 10 areas of interest, including health law and intellectual property law, gaining general and concentrated legal training that enhances their understanding of the legal issues in their respective fields, as well as their professional opportunities. </p> 
+            <a class="cta-college cta-blue--ghost" href="/academics/mj-program/Pages/default.aspx">Learn More</a> </div> 
+      </div> 
+   </div> 
+   <div class="bg-cover m20-b" data-bgimg="/PublishingImages/programs_faculty.jpg" style="background-image: url(" https:="" law.depaul.edu="" pages="" default.aspx");"=""> 
+      <div class="p45-a text-center" style="background-color: rgba(42, 65, 96, 0.498);"> 
+         <h2 class="h1 text-shadow text-white m0-t">Rankings &amp; Honors</h2> 
+         <p class="h3 lh125 text-shadow text-white m0-b">Visit the College of Law Recognition page for top rankings and honors in<br>U.S. News, preLaw Magazine, Princeton Review and Illinois Super Lawyers.</p> 
+         <a class="cta-college cta-white--ghost m0-b" data-linkid="Recognitions" href="/about/Pages/rankings.aspx">View Recognitions</a> </div> 
+   </div>
+   <div class="row"> 
+      <div class="col-md-4 col-sm-12 m15-b"> 
+         <div class="card"> 
+            <img src="/PublishingImages/Wendy%20Landing%20Page%20Photo.jpg" alt="" style="width: 100%;">
+            <div class="card-body"> 
+               <h4 class="m0-t">Our faculty:<br>Influential scholars</h4> 
+               <p class="m30-b">A dynamic blend of leading-edge academic theory and practical, real-world experience makes our faculty among the nation’s most respected for their teaching and for their impact on the legal profession.</p> 
+               <a href="/about/profiles/Pages/default.aspx" class="btn btn-dpu btn-blue">Faculty Profiles</a> </div> 
+         </div> 
+      </div> 
+      <div class="col-md-4 col-sm-12 m15-b"> 
+         <div class="card"> 
+            <div class="caption"> 
+               <img src="/PublishingImages/law_homepage_LLM.jpg" alt="" style="width: 100%;"> 
+               <div class="card-body"> 
+                  <h4 class="m0-t">Our students:<br>Diverse and Experienced</h4> 
+                  <p class="m30-b">Students benefit from a multifaceted and multicultural community with myriad opportunities to participate in student organizations, community service projects and hands-on learning experiences.</p> 
+                  <a href="/about/profiles/Pages/default.aspx" class="btn btn-dpu btn-blue">Student Profiles</a>  </div> 
+            </div> 
+         </div> 
+      </div> 
+      <div class="col-md-4 col-sm-12 m15-b"> 
+         <div class="card"> 
+            <div class="caption"> 
+               <img src="/PublishingImages/law-alumni-homepage.jpg" alt="" style="width: 100%;"> 
+               <div class="card-body"> 
+                  <h4 class="m0-t">Our alumni:<br>Accomplished and Engaged</h4> 
+                  <p class="m30-b">A highly diverse and engaged network of successful lawyers and leaders in their respective fields create a strong network by supporting professional opportunities for students while enhancing our reputation.</p> 
+                  <a href="/about/profiles/Pages/default.aspx" class="btn btn-dpu btn-blue">Alumni Profiles</a></div> 
+            </div> 
+         </div> 
+      </div> 
+   </div>
+   <div class="bg-cover" data-bgimg="/PublishingImages/programs_chicago.jpg" style="background-image: url(" https:="" law.depaul.edu="" pages="" default.aspx");"=""> 
+      <div class="p45-a text-center" style="background-color: rgba(42, 65, 96, 0.498);"> 
+         <h2 class="h1 text-shadow text-white m0-t">Our Connection to Chicago</h2> 
+         <p class="h3 lh125 text-shadow text-white m0-b">Located in the heart of Chicago for more than a century, DePaul College of Law is a respected and integral part of the local legal community.</p>
+      </div> 
+   </div>
+   <div class="row"> 
+      <div class="col-md-6 col-sm-12"> 
+         <h3 style="margin-bottom: -16px;">
+            <span id="ms-rterangecursor-start" rtenodeid="1"></span><a href="/about/news/Pages/default.aspx">Recent News</a><span id="ms-rterangecursor-end"></span></h3>
+         <div class="ms-rtestate-read ms-rte-wpbox" contenteditable="false">
+            <div class="ms-rtestate-notify  ms-rtestate-read 7e8eb078-12ff-4dee-bafe-9760d81c842c" id="div_7e8eb078-12ff-4dee-bafe-9760d81c842c" unselectable="on"><div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+							<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+	<div webpartid="5527e0bc-944e-4b0a-b7a6-7890fc321e30" webpartid2="7e8eb078-12ff-4dee-bafe-9760d81c842c" haspers="false" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex " allowremove="false" allowdelete="false" style=""><div class="panel-object" id="ctl00_ctl63_g_7e8eb078_12ff_4dee_bafe_9760d81c842c">
+        <script type="text/javascript">
+            $(document).ready(function () {
+                var InEditMode = (document.forms[MSOWebPartPageFormName].MSOLayout_InDesignMode.value == "1")
+                    ? true
+                    : false;
+                var wpID = '' + 'g_7e8eb078_12ff_4dee_bafe_9760d81c842c' + '';
+                if (!InEditMode) {
+                    if ("False".toLowerCase() == "true") {
+                        DUListSearchWP.AttachSearch(wpID);
+                    }
+                    if ("False".toLowerCase() == "true") {
+                        DUListSearchWP.AttachFilters(wpID);
+                    }
+                    DUListSearchWP.InitialLoad(wpID);
+                }
+            });
+        </script>
+        <div id="g_7e8eb078_12ff_4dee_bafe_9760d81c842c" class="ListLookup_WP">
+            
+                 
+            
+            
+            <div class="filters-container">
+                
+            </div>
+            <div class="results-container" id="results-container-g_7e8eb078_12ff_4dee_bafe_9760d81c842c">
+                <style type="text/css"> #lawHomeLi {padding:10px 0;border-bottom: 1px hidden; height: 78px} .lawLiDiv {font-size:18px;line-height:19px;overflow:hidden;font-weight:bold} li.lwe {padding:10px;border-bottom: 1px dotted #ccc; height: 78px} </style>  <h3 class="media-heading"></h3>  <ul class="media-list no-bullets mt-4" id="lawHomeUl">    	 	 <li class="media" id="lawHomeLi">          <div class="lawLiDiv">               <span>3/19/2021 12:00:00 AM - </span>             <a href="https://law.depaul.edu/about/news/Pages/International-Human-Rights-Law-Institute-(IHRLI)-Files-Amicus-Brief-on-Human-Rights-Violations-of-Incarcerated-People.aspx">International Human Rights Law Institute (IHRLI) Files Amicus Brief on Human Rights Violations of Incarcerated People</a>         </div>       </li>   	 	 <li class="media" id="lawHomeLi">          <div class="lawLiDiv">               <span>3/5/2021 12:00:00 AM - </span>             <a href="https://law.depaul.edu/about/news/Pages/DePaul-Law-Student-Mary-Hannon-Publishes-The-Patent-Bar-Gender-Gap.aspx">DePaulLaw Student Mary Hannon Publishes The Patent Bar Gender Gap</a>         </div>       </li>   	 	 <li class="media" id="lawHomeLi">          <div class="lawLiDiv">               <span>3/5/2021 12:00:00 AM - </span>             <a href="https://law.depaul.edu/about/news/Pages/Student-Profile-Matthew-Sanchez.aspx">Student Profile: Matthew Sanchez ('21)</a>         </div>       </li>   	 	 <li class="media" id="lawHomeLi">          <div class="lawLiDiv">               <span>2/25/2021 1:00:00 AM - </span>             <a href="https://law.depaul.edu/about/news/Pages/DePaul-Laws-Pro-Bono-and-Community-Service-Initiative-Adds-New-Remote-Projects.aspx">DePaul Law's Pro Bono and Community Service Initiative Adds New Remote Projects</a>         </div>       </li>   	 	 <li class="media" id="lawHomeLi">          <div class="lawLiDiv">               <span>2/23/2021 12:00:00 AM - </span>             <a href="https://law.depaul.edu/about/news/Pages/criminal-appeals-clinic-win-for-lemar-hardy.aspx">Criminal Appeals Clinic Successfully Argues for Client to the Appellate Court of Illinois, First District</a>         </div>       </li>   	 </ul>   
+                
+            </div>
+            
+        </div>
+    
+<input type="hidden" name="ctl00$ctl63$g_7e8eb078_12ff_4dee_bafe_9760d81c842c$ctl00$siteUrl" id="ctl00_ctl63_g_7e8eb078_12ff_4dee_bafe_9760d81c842c_ctl00_siteUrl" value="https://law.depaul.edu">
+<input type="hidden" name="ctl00$ctl63$g_7e8eb078_12ff_4dee_bafe_9760d81c842c$ctl00$tabularwpargs" id="ctl00_ctl63_g_7e8eb078_12ff_4dee_bafe_9760d81c842c_ctl00_tabularwpargs" value="{&quot;Siteurl&quot;:&quot;/&quot;,&quot;Listname&quot;:&quot;LawRecentNews&quot;,&quot;ListUrl&quot;:&quot;/Lists/LawRecentNews&quot;,&quot;ViewName&quot;:&quot;All Items&quot;,&quot;IsWpSearchable&quot;:false,&quot;FieldsInfo&quot;:null,&quot;IncludeHeader&quot;:false,&quot;ViewInfoObj&quot;:null,&quot;ViewfieldsObjs&quot;:null,&quot;DisplayFieldsList&quot;:[{&quot;FieldInternalName&quot;:&quot;LinkTitle&quot;,&quot;FieldDisplayName&quot;:&quot;AricleTitle&quot;,&quot;FieldType&quot;:&quot;Computed&quot;,&quot;FilterOptions&quot;:null},{&quot;FieldInternalName&quot;:&quot;ArticlePageURL&quot;,&quot;FieldDisplayName&quot;:&quot;ArticlePageURL&quot;,&quot;FieldType&quot;:&quot;Text&quot;,&quot;FilterOptions&quot;:null},{&quot;FieldInternalName&quot;:&quot;ArticleDisplayDate&quot;,&quot;FieldDisplayName&quot;:&quot;ArticleDisplayDate&quot;,&quot;FieldType&quot;:&quot;Text&quot;,&quot;FilterOptions&quot;:null}],&quot;FilterFieldsList&quot;:[],&quot;SearchFieldsList&quot;:[],&quot;HasSearch&quot;:false,&quot;HasFilter&quot;:false,&quot;DisplayTemplateHtml&quot;:&quot;\u003cstyle type=\&quot;text/css\&quot;\u003e\r\n#lawHomeLi {padding:10px 0;border-bottom: 1px hidden; height: 78px}\r\n.lawLiDiv {font-size:18px;line-height:19px;overflow:hidden;font-weight:bold}\r\nli.lwe {padding:10px;border-bottom: 1px dotted #ccc; height: 78px}\r\n\u003c/style\u003e\r\n\r\n\u003ch3 class=\&quot;media-heading\&quot;\u003e\u003c/h3\u003e\r\n{{#if rows}}\r\n\u003cul class=\&quot;media-list no-bullets mt-4\&quot; id=\&quot;lawHomeUl\&quot;\u003e\r\n   \t{{#each rows}}\r\n\t \u003cli class=\&quot;media\&quot; id=\&quot;lawHomeLi\&quot;\u003e \r\n        \u003cdiv class=\&quot;lawLiDiv\&quot;\u003e\r\n              \u003cspan\u003e{{[ArticleDisplayDate]}} - \u003c/span\u003e\r\n            \u003ca href=\&quot;{{[ArticlePageURL]}}\&quot;\u003e{{AricleTitle}}\u003c/a\u003e\r\n        \u003c/div\u003e\r\n\r\n     \u003c/li\u003e\r\n  \t{{/each}}\r\n\u003c/ul\u003e\r\n{{/if}}\r\n\r\n&quot;,&quot;SearchTemplateHtml&quot;:&quot;&quot;,&quot;SearchText&quot;:&quot;Search keywords&quot;,&quot;IsDefaultSearchText&quot;:false,&quot;PaginationInterval&quot;:&quot;5&quot;,&quot;IsHideInitialResults&quot;:false,&quot;HasClearAllbt&quot;:false,&quot;EnableFilterDeepLinking&quot;:false,&quot;InitialResults&quot;:null,&quot;Hasnextpage&quot;:null,&quot;ListItemCollectionPosition&quot;:null,&quot;Ninitialhtml&quot;:null}">
+
+</div><div class="ms-clear"></div></div>
+</div>
+						</div></div>
+            <div id="vid_7e8eb078-12ff-4dee-bafe-9760d81c842c" unselectable="on" style="display: none;">
+            </div>
+         </div> 
+      </div> 
+      <div class="col-md-6 col-sm-12"> 
+         <h3 style="margin-bottom: -16px;">
+            <a href="/about/events/Pages/default.aspx">Upcoming Events</a></h3> 
+         <div class="ms-rtestate-read ms-rte-wpbox" contenteditable="false"> 
+            <div class="ms-rtestate-notify  ms-rtestate-read 7f0f3b26-4f8e-40ee-9d85-839e38625b89" id="div_7f0f3b26-4f8e-40ee-9d85-839e38625b89" unselectable="on"><div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+							<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+	<div webpartid="7cfdcd24-772b-40c4-92b0-99d8f20c0932" webpartid2="7f0f3b26-4f8e-40ee-9d85-839e38625b89" haspers="false" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " allowremove="false" allowdelete="false" style=""><div id="ctl00_ctl63_g_7f0f3b26_4f8e_40ee_9d85_839e38625b89">
+		<div class="webpart Localist_WP" webpartid="7f0f3b26-4f8e-40ee-9d85-839e38625b89"><h3 class="media-heading"></h3>
+  
+  <style type="text/css" media="screen">
+    #lw { width:100%;background-color:white;font-family:arial;overflow:hidden;}
+    #lw ul {list-style:none;}
+    #lw li.lwe {padding:10px;border-bottom: 1px dotted #ccc;}
+    .lwn {font-weight:bold;color:#222;font-size:16px;line-height:19px;overflow:hidden;}
+    .lwn0 {font-weight:normal;float:right;font-size:14px;color:#444;}
+    .lwd {padding-top: 5px;color:#222;font-size:12px;line-height:15px;overflow:hidden;}
+    .lwi0 {float:left;padding:2px 6px 0px 0px;margin:0;}
+    .lwi1 {float:left;padding:0px 6px 0px 0px;margin:0;}
+    .lwl{ font-weight:bold;padding-top:5px;color:#222;font-size:12px;line-height:14px;overflow:hidden;clear:both;}
+    .lwl0 {font-weight:normal;padding-right:3px;}
+    .lwi { padding:2px; border: 1px solid #ccc; }
+  </style>
+
+
+
+
+
+
+
+<div id="lw">
+  <div class="lw">
+    <ul id="lwe">
+      
+        
+          <li class="lwe">
+            <div class="lwn">
+              <span class="lwn0">
+                Jun 3  10am
+                
+                  - Jun 4
+                
+              </span>
+              
+
+              <a href="https://events.depaul.edu/event/27th_annual_clifford_symposium_on_tort_law_and_social_policy_webinar?utm_campaign=widget&amp;utm_medium=widget&amp;utm_source=DePaul+University">
+27th Annual Clifford Symposium on Tort Law and Social Policy Webinar</a>
+            </div>
+            
+            
+            
+              
+            
+
+            
+            
+          </li>
+        
+          <li class="lwe">
+            <div class="lwn">
+              <span class="lwn0">
+                Oct 7  12pm
+                
+                  - Oct 8
+                
+              </span>
+              
+
+              <a href="https://events.depaul.edu/event/family_law_symposium_the_current_state_of_elder_law_8_hours_cle_credit?utm_campaign=widget&amp;utm_medium=widget&amp;utm_source=DePaul+University">
+Family Law Symposium: A Deep Dive into Domestic Violence Representation (8 hours CLE credit) </a>
+            </div>
+            
+            
+            
+              
+            
+
+            
+            
+          </li>
+        
+      
+    </ul>
+  </div>
+</div> 
+</div>
+	</div><div class="ms-clear"></div></div>
+</div>
+						</div></div> 
+            <div id="vid_7f0f3b26-4f8e-40ee-9d85-839e38625b89" unselectable="on" style="display: none;"> 
+            </div> 
+         </div> 
+      </div>
+   </div> 
+   <h2 class="mt-2">Want to know more?<br></h2> 
+   <a class="cta-college cta-blue--ghost" href="/academics/experiential-learning/Pages/default.aspx">Experiential Learning</a><a class="cta-college cta-blue--ghost" href="/about/diversity-inclusion/Pages/default.aspx">Diversity &amp; Inclusion</a><a class="cta-college cta-blue--ghost" href="/academics/jd-programs/programs-of-excellence/Pages/default.aspx">Programs of Excellence</a>&ZeroWidthSpace;<br></div>&ZeroWidthSpace; </div>
+        
+					</div>
+
+    <div class="container">
+        
+    </div>
+<div style="display:none" id="hidZone"><div class="ms-webpart-zone ms-fullWidth">
+						<div id="MSOZoneCell_WebPartWPQ3" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+							<div class="ms-PartSpacingVertical"></div>
+						</div><div id="MSOZoneCell_WebPartWPQ2" class="s4-wpcell-plain ms-webpartzone-cell ms-webpart-cell-vertical ms-fullWidth ">
+
+						</div>
+					</div></div>
+                                
+                            
+				</div>
+                        </div>
+                    </div>
+                </div>
+                <footer class="footer" role="contentinfo" id="ga-footer">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row footer" id="ga-footer">
+   <div class="col-sm-12"> 
+      <h5 class="m0-a"><a href="/Pages/default.aspx" data-area="footer">DePaul College of Law</a> 
+         <div class="skin-social d-inline-block" style="vertical-align: middle;">
+            <a class="fb social" href="https://www.facebook.com/DePaulCollegeofLaw/" data-area="footer"></a> 
+            <a class="twitter social" href="https://twitter.com/DePaulLaw" data-area="footer"></a> 
+            <a class="youtube social" href="https://www.youtube.com/user/lawdepaul" data-area="footer"></a> 
+        <a class="instagram social" href="https://www.instagram.com/depaullaw/" data-area="footer"></a></div>
+      </h5>
+   </div>
+   <div class="row col-sm-12">
+      <div class="col-md-3 col-sm-12">
+         <p>Loop Campus<br>25 E. Jackson Blvd.<br>Chicago, IL 60604<br><a href="tel:312-362-8701" data-area="footer">(312) 362-8701</a></p>
+      </div> 
+      <div class="col-md-3 col-sm-12">
+         <h5>About </h5> 
+         <ul class="no-bullets small">
+            <li>
+               <a href="/about/Pages/aba-required-disclosures.aspx" data-area="footer">Consumer Information (ABA Required Disclosures)</a><br></li> 
+            <li>
+               <a href="/about/contact-location/Pages/default.aspx" data-area="footer">Contact &amp; Location</a></li> 
+            <li>
+               <a href="/about/contact-location/Pages/map-and-directions.aspx" data-area="footer">Map &amp; Directions</a></li> 
+            <li>
+               <a href="/about/contact-location/Pages/hours.aspx" data-area="footer">Hours</a><br></li> 
+         </ul>
+      </div> 
+      <div class="col-md-3 col-sm-12">
+         <h5>Directories <br></h5> 
+         <ul class="no-bullets small">
+            <li>
+               <a href="/faculty-and-staff/administration/Pages/default.aspx" data-area="footer">Administration</a></li> 
+            <li>
+               <a href="/faculty-and-staff/faculty-a-z/Pages/default.aspx" data-area="footer">Faculty</a></li> 
+            <li>
+               <a href="/faculty-and-staff/Pages/staff.aspx" data-area="footer">Staff</a></li>
+         </ul>
+      </div> 
+      <div class="col-md-3 col-sm-12">
+         <h5>Resources </h5> 
+         <ul class="no-bullets small">
+            <li>
+               <a href="https://depauledu.sharepoint.com/teams/law/resources/" data-area="footer">Faculty/Staff Resource Site</a></li> 
+            <li>
+               <a href="/academics/course-information/Pages/default.aspx" data-area="footer">Class Schedules</a></li> 
+            <li>
+               <a href="/student-resources/student-activities/student-organizations/Pages/default.aspx" data-area="footer">Student Organizations</a><br></li> 
+            <li>
+               <a href="/about/events/Pages/default.aspx" data-area="footer">Event Planning</a><br></li>
+         </ul>
+      </div>
+   </div>
+   <br>
+   <br> 
+</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container-fluid">
+                        <div class="row copyright" id="ga-copyright">
+                            <div class="container">
+                                <div class="row small">
+                                    <div class="col-md-12 m0-t">
+                                        <a data-area="copyright" href="https://www.depaul.edu/Pages/copyright.aspx">© 2001-2021 DePaul&nbsp;University</a><span> | </span><a data-area="copyright" href="https://www.depaul.edu/Pages/disclaimer.aspx">Disclaimer</a><span> | </span><a data-area="copyright" href="https://www.depaul.edu/Pages/contact-us.aspx">Contact&nbsp;Us</a><span> | </span><a data-area="copyright" href="https://emergencyplan.depaul.edu/Pages/default.aspx">Emergency&nbsp;Plan</a><span> | </span><a data-area="copyright" href="https://www.depaul.edu/Pages/consumer-info.aspx">Consumer&nbsp;Information</a><span> | </span><a data-area="copyright" href="http://complaints.ibhe.org/">IBHE Complaints</a><span> | </span><a data-area="copyright" href="https://go.depaul.edu/privacy">Privacy&nbsp;Statement</a><a data-area="copyright" class="editor-login" style="float:right;" href="/_layouts/authenticate.aspx?source=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx">Editor&nbsp;Login</a>                                        
+                                    </div>                
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+                <div id="DeltaFormDigest">
+					
+                    
+                        <script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xABC8842591791437E8F41A63B349E83175D38CCCC1B7E539EEA726A0EACE83E7CFCFFF145A1EEE828F66EC23D352D68B4524B0B702CF8BB5E1E70B1274F70654,08 May 2021 22:42:54 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+                    
+                
+				</div>
+                <div class="ms-hide" style="display:none;">
+                    
+                    
+                    
+                    
+    College of Law
+
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">// <![CDATA[ 
+
+
+            var g_Workspace = "s4-workspace";
+        // ]]>
+</script>
+        
+        
+        
+    
+				
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 23040000; IsSPSocialSwitchEnabled = function() { return true; };var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{1cf32a13-d3d9-4bbf-9464-846db5bfc16d}",itemId: 4,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var slNavUrl = '\u002f';_spBodyOnLoadFunctionNames.push('_cUpdonetidProjectPropertyTitleGraphic');function _cUpdonetidProjectPropertyTitleGraphic(){var myd = null; if (typeof(dataonetidProjectPropertyTitleGraphic) != 'undefined') {myd = dataonetidProjectPropertyTitleGraphic;} var myc = document.getElementById('ctl00_onetidProjectPropertyTitleGraphic');_cUpdconetidProjectPropertyTitleGraphic(myd, myc);}function _cUpdconetidProjectPropertyTitleGraphic(data, ctrl){ctrl.href = slNavUrl;}WPSC.Init(document);
+var varPartWPQ1 = WPSC.WebPartPage.Parts.Register('WPQ1','1fbf9333-4cb8-4e5c-b36b-26a71ce39daa',document.getElementById('WebPartWPQ1'));
+var varPartWPQ2 = WPSC.WebPartPage.Parts.Register('WPQ2','7cfdcd24-772b-40c4-92b0-99d8f20c0932',document.getElementById('WebPartWPQ2'));
+var varPartWPQ3 = WPSC.WebPartPage.Parts.Register('WPQ3','5527e0bc-944e-4b0a-b7a6-7890fc321e30',document.getElementById('WebPartWPQ3'));
+WPSC.WebPartPage.WebURL = 'https:\u002f\u002flaw.depaul.edu';
+WPSC.WebPartPage.WebServerRelativeURL = '\u002f';
+
+var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+//]]>
+</script>
+</form>
+    <span id="DeltaPlaceHolderUtilityContent">
+        
+    <script type="text/javascript">
+        deferjquery(function () {
+            var loadedrollupimage = $('#rollupimageonload > img').first().attr('src');
+            if (loadedrollupimage) {
+                var newimage = $('<img/>');
+                $(newimage).attr('src', loadedrollupimage);
+                $('#rollupthumbimage').html("");
+                $('#rollupthumbimage').append($(newimage));
+                $('#itemURL').val(loadedrollupimage);
+            }
+        //Check the Hide From Rollup checkbox if Rolluporder==-1
+				if ($('[id*="RollupNumberTextField"]').val()==-1)
+					$('#hidefromrollup').prop('checked', true);
+				//Based on the value of the rolluporder textbox, automatically check/uncheck Hide From Rollup
+				$('[id*="RollupNumberTextField"]').focusout(function(){
+					if($('[id*="RollupNumberTextField"]').val()>=0)
+						$('#hidefromrollup').prop('checked', false);
+					else
+						$('#hidefromrollup').prop('checked', true);
+				})
+				
+			});
+			
+			function hidefromrollupclicked(checkbox) {
+				if ($(checkbox).is(':checked')) {
+					$('[id*="RollupNumberTextField"]').val('-1');
+				}
+				else
+					$('[id*="RollupNumberTextField"]').val('0');
+			}
+
+    </script>
+
+
+    </span><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//8928774.fls.doubleclick.net/activityi;src=8928774;type=leadg0;cat=depau00m;ord=9947008097586;gtm=2wg4s0;auiddc=319286554.1616282511;~oref=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx?"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//8928774.fls.doubleclick.net/activityi;src=8928774;type=herew0;cat=depau00;ord=8261144258802;gtm=2wg4s0;auiddc=319286554.1616282511;~oref=https%3A%2F%2Flaw.depaul.edu%2FPages%2Fdefault.aspx?"></iframe>
+    
+
+
+<script type="text/javascript" id="gtm-ping-grad" src="https://grad.depaul.edu/ping"></script><script type="text/javascript" id="gtm-linkedin-partner">_linkedin_data_partner_id="37484";</script><script type="text/javascript" id="gtm-linkedin-snippet">(function(){var b=document.getElementsByTagName("script")[0],a=document.createElement("script");a.id="linkedin-autogen";a.type="text/javascript";a.async=!0;a.src="https://snap.licdn.com/li.lms-analytics/insight.min.js";b.parentNode.insertBefore(a,b)})();</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2676403959259580");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2676403959259580&amp;ev=PageView&amp;noscript=1"></noscript>
+
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2184913605104093");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2184913605104093&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">fbq("track","ViewContent");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2184913605104093");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2184913605104093&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">fbq("track","ViewContent");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2184913605104093");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2184913605104093&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">fbq("track","ViewContent");</script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","2184913605104093");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=2184913605104093&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+<script type="text/javascript" id="">fbq("track","ViewContent");</script>
+<script type="text/javascript" id="gtm-ping" src="https://connect.depaul.edu/ping"></script></body></html>
